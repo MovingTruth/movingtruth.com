@@ -19,6 +19,9 @@ Fixes from a full deployment review (storage/cookie state bugs, dead navigation 
 - `themes/temple/layouts/series/single.html` — Added `rel="noopener"` to the Substack signup `<form target="_blank">`, which was missing it (every `<a target="_blank">` in the theme already had it).
 - `.github/workflows/deploy.yml` — Pinned `hugo-version` to `0.163.1` (was `"latest"`), matching the locally installed version, so deploys are reproducible and don't silently pick up an unreviewed upstream Hugo release.
 
+## 2026-07-13
+
+
 ## 2026-06-23
 
 - `themes/temple/layouts/_default/list.html` — Back to Home on series listing pages (e.g. /blessings/, /moving-truth/) was still pointing to /. Changed to /series/. Missed in the previous navigation pass.
