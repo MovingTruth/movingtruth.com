@@ -165,7 +165,7 @@
     display:grid; grid-template-columns:1fr; gap:24px;
     max-width:760px; margin:26px auto 0;
   }
-  @media (min-width:760px){ .skies{ grid-template-columns:1fr 1fr; } }
+  @media (min-width:760px){ .skies{ grid-template-columns:1fr; } }
   .sky{
     border:1px solid var(--ink-soft);
     background:rgba(255,252,238,0.25);
@@ -350,7 +350,7 @@
     .corollary{ break-inside:avoid; }
     .wheel-svg{ width:320px; }
     .flow-svg{ width:520px; }
-    .skies{ grid-template-columns:1fr 1fr; gap:14px; }
+    .skies{ grid-template-columns:1fr; gap:14px; }
     .sky{ padding:12px 14px 14px; break-inside:avoid-page; }
     .sky p{ font-size:13px; margin:6px 0; }
     .span-bars{ margin-top:14px; }
@@ -377,23 +377,21 @@
       <p>Herein is set forth the manner by which a single reading is drawn from four independent demonstrations, each a pure function of the calendar, and each governed by its own proper law. Two demonstrations — the Sign and the Zodiac of Cathay — are fixed upon the day of one's birth and never after alter. Two others — the Number of the Day and the Phase of the Moon — are common to every soul upon a given day, and change with it. What follows is the geometry and arithmetic of each, and the manner of their union.</p>
     </section>
 
-    <!-- FIG I — THREE RINGS -->
+    <!-- FIG I — TWO RINGS -->
     <section class="page-break">
-      <p class="fig-label">Fig. I — The Three Heavens</p>
+      <p class="fig-label">Fig. I — The Two Heavens</p>
       <div class="wheel-wrap"><svg class="wheel-svg" id="wheel" viewBox="0 0 560 560"></svg></div>
       <div class="legend">
         <span><span class="dot" style="background:#8B3A2B"></span>Traditional — xii signs</span>
         <span><span class="dot" style="background:#2B3A55"></span>Astronomical — xiii signs</span>
-        <span><span class="dot" style="background:#A8823C"></span>Real Astrology — xiv signs</span>
       </div>
-      <p class="fig-caption">Three concentric skies, each a true partition of the year into unequal arcs — for the heavens were never divided into twelve equal parts by nature, only by convention. The outer ring alone bears Cetus, the Whale, carved from the body of Pisces.</p>
-      <aside class="margin-note"><b>Marginal note.</b> Cetus's bounds, xxi–xxviii March, are InnerSign's own declared convention — no single authority fixes them, and the reading says so plainly rather than feign certainty it does not possess.</aside>
+      <p class="fig-caption">Two concentric skies: the Traditional twelve divide the ecliptic into equal signs, while the Astronomical thirteen follow unequal modern constellation boundaries crossed by the Sun.</p>
     </section>
 
-    <!-- FIG II — WHY THIRTEEN, WHY FOURTEEN -->
+    <!-- FIG II — WHY TWELVE, WHY THIRTEEN -->
     <section class="page-break">
-      <p class="fig-label">Fig. II — Why Thirteen Signs, Why Fourteen</p>
-      <p class="fig-caption" style="max-width:640px;">The Traditional twelve divide the year into equal thirty-day estates, by convention alone. The heavens themselves keep no such symmetry. What follows sets out the two further skies, whence each arises, and how the reading itself is remade beneath them.</p>
+      <p class="fig-label">Fig. II — Why Twelve Signs, Why Thirteen Constellations</p>
+      <p class="fig-caption" style="max-width:640px;">The Traditional twelve divide the year into equal thirty-degree estates. The Astronomical lens follows the unequal modern constellation regions crossed by the Sun.</p>
 
       <div class="skies">
         <div class="sky">
@@ -402,20 +400,14 @@
           <p>The Sun, in its yearly course, does not pass through twelve constellations of equal breadth — it passes through thirteen, of wildly unequal breadth, for the constellations themselves were drawn by ancient hands, not measured to a common span. Between the Scorpion and the Archer lies a thirteenth house the almanacs omit: <b>Ophiuchus</b>, the Serpent Bearer, occupying the sky from the xxix of November to the xvi of December. This is the table popularly said to be "the sign astronomy remembers and astrology forgot" — no new discovery, only an old omission named aloud.</p>
           <p>Once Ophiuchus is admitted, the twelve estates can no longer be held equal. Scorpius, crowded into a mere six days, and Virgo, sprawling across forty-four, sit upon the same wheel. <i>Fig. III below sets their true proportions side by side.</i></p>
         </div>
-        <div class="sky">
-          <span class="roman">The Real Astrology Fourteen</span>
-          <h4>Whence Cetus, the Whale</h4>
-          <p>A fourteenth house, <b>Cetus</b>, is carved from the body of Pisces — the xxi to the xxviii of March — splitting Pisces into two disjoint estates, one before Cetus and one after. Unlike Ophiuchus, no astronomical body of record fixes Cetus's bounds; this is Inner Sign's own declared convention, offered as a further lens rather than a hidden fact, and named as such wherever it appears.</p>
-          <p>Both Pisces estates, though each now shortened, keep the decan they would have held under Pisces's full, unshadowed span — a birthday inside Cetus's own week resolves to Cetus and never touches Pisces's reckoning at all. See Proposition I's formula, and its note on the Pisces exception.</p>
-        </div>
       </div>
 
-      <p class="fig-label" style="margin-top:32px;">Fig. III — The True Proportions of a Year, Three Ways</p>
+      <p class="fig-label" style="margin-top:32px;">Fig. III — The Proportions of a Year, Two Ways</p>
       <div class="span-bars" id="spanBars"></div>
-      <p class="fig-caption">Read left to right as the year runs, xii months round. Mark how Scorpius shrinks to a sliver once Ophiuchus is admitted, and how Cetus splits Pisces in twain — this is precisely why no decan may claim a fixed third of ten days; each must take its <i>proportion</i> of whatever span its house is truly given, per Proposition I.</p>
+      <p class="fig-caption">Read left to right as the year runs, xii months round. Mark how Scorpius shrinks to a sliver once Ophiuchus is admitted. This is why an Inner Sign third cannot always be a fixed ten-day span.</p>
 
       <div class="reading-note">
-        <p><b>How the reading itself changes.</b> Choosing among the three skies remakes only the Sign and its Decan — the Number of the Day, the Zodiac of Cathay, and the Phase of the Moon are untouched, for none of the three depend upon the sun's house. And the remaking costs less than it first appears: the same company of phrasings serves all three skies alike, since a passage describing Aries's character does not care which table decided a soul is Aries. Only two houses want writing found nowhere in the Traditional twelve — Ophiuchus and Cetus, three decans each — six new fragments raised upon the base six-and-thirty, not three whole companies built anew. Wherever signs are listed for browsing, the newly-admitted house is shown first, that its presence not go unnoticed.</p>
+        <p><b>How the reading itself changes.</b> Choosing between the two skies remakes only the Sign and its Inner Sign third — the Number of the Day, the Zodiac of Cathay, and Phase of the Moon remain untouched. The same company of phrasings serves both skies where their names overlap. Only Ophiuchus requires writing absent from the Traditional twelve.</p>
       </div>
     </section>
 
@@ -435,7 +427,7 @@
             <text x="75" y="80" text-anchor="middle" font-size="26" fill="#241C13">♈</text>
           </svg>
           <div class="formula">decan = min( 2, ⌊ (offset ⁄ span) × 3 ⌋ )</div>
-          <p>A sign's span is not divided into three equal decades, for Ophiuchus spans but xviii days, and Cetus a mere viii — instead each decan claims its proportion of whatever the sign's true length may be.</p>
+          <p>A sign's span is not divided into three equal decades, for Ophiuchus spans but xviii days and Scorpius six — instead each third claims its proportion of whatever span the lens gives it.</p>
           <p class="worked">Worked: 15 June, Traditional → Gemini, offset 25 of 31 days → decan ⌊2.42⌋ = <b>2</b> → <i>gemini_decan3</i>.</p>
         </div>
 
@@ -608,7 +600,7 @@
     return `M ${x1} ${y1} A ${rOuter} ${rOuter} 0 ${large} 1 ${x2} ${y2} L ${x3} ${y3} A ${rInner} ${rInner} 0 ${large} 0 ${x4} ${y4} Z`;
   }
 
-  // ---- Fig I: three-tier zodiac wheel, arcs computed from real boundary tables ----
+  // ---- Fig I: two-lens zodiac wheel, arcs computed from the boundary tables ----
   const traditional = [
     ["capricorn",12,22,1,19,"♑"],["aquarius",1,20,2,18,"♒"],["pisces",2,19,3,20,"♓"],
     ["aries",3,21,4,19,"♈"],["taurus",4,20,5,20,"♉"],["gemini",5,21,6,20,"♊"],
@@ -622,21 +614,11 @@
     ["libra",10,30,11,22,"♎"],["scorpius",11,23,11,28,"♏"],["ophiuchus",11,29,12,16,"⛎"],
     ["sagittarius",12,17,1,19,"♐"]
   ];
-  const realAstrology = [
-    ["capricornus",1,20,2,15,"♑"],["aquarius",2,16,3,10,"♒"],
-    ["pisces",3,11,3,20,"♓"],["cetus",3,21,3,28,"🐋"],["pisces",3,29,4,17,"♓"],
-    ["aries",4,18,5,12,"♈"],["taurus",5,13,6,20,"♉"],["gemini",6,21,7,19,"♊"],
-    ["cancer",7,20,8,9,"♋"],["leo",8,10,9,15,"♌"],["virgo",9,16,10,29,"♍"],
-    ["libra",10,30,11,22,"♎"],["scorpius",11,23,11,28,"♏"],["ophiuchus",11,29,12,16,"⛎"],
-    ["sagittarius",12,17,1,19,"♐"]
-  ];
-
   const wheel = document.getElementById('wheel');
   const cx = 280, cy = 280;
   const rings = [
-    { rows: traditional,   rInner: 60,  rOuter: 108, color: "#8B3A2B", labelR: 84  },
-    { rows: astronomical,  rInner: 118, rOuter: 168, color: "#2B3A55", labelR: 143 },
-    { rows: realAstrology, rInner: 178, rOuter: 232, color: "#A8823C", labelR: 205 }
+    { rows: traditional,   rInner: 90,  rOuter: 150, color: "#8B3A2B", labelR: 120 },
+    { rows: astronomical,  rInner: 165, rOuter: 232, color: "#2B3A55", labelR: 198 }
   ];
 
   // faint full circles as guide rings
@@ -654,7 +636,7 @@
       wheel.appendChild(wedge);
       let mid = endA >= startA ? (startA+endA)/2 : (startA+endA+360)/2 % 360;
       const [lx,ly] = point(cx,cy,ring.labelR,mid);
-      const t = el('text',{x:lx,y:ly+5,'text-anchor':'middle','font-size': (sign==='cetus'?12:15), fill:'#241C13'});
+      const t = el('text',{x:lx,y:ly+5,'text-anchor':'middle','font-size':15, fill:'#241C13'});
       t.textContent = glyph;
       wheel.appendChild(t);
     });
@@ -705,7 +687,7 @@
     mw.appendChild(t);
   });
 
-  // ---- Fig III: proportional span-comparison bars, one per tier ----
+  // ---- Fig III: proportional span-comparison bars, one per lens ----
   // Reuses the same real boundary tables as the Fig I wheel -- these bars are the exact
   // same data, read as a line instead of a ring, so the size disparities (Scorpius's 6
   // days beside Virgo's 44) are legible at a glance rather than inferred from a wedge.
@@ -718,7 +700,6 @@
   const barTiers = [
     { name: 'Traditional — xii', rows: traditional, color: '#8B3A2B' },
     { name: 'Astronomical — xiii', rows: astronomical, color: '#2B3A55' },
-    { name: 'Real Astrology — xiv', rows: realAstrology, color: '#A8823C' },
   ];
   const barWidth = 860, barHeight = 34;
   barTiers.forEach(tier => {
@@ -743,7 +724,7 @@
         fill: tier.color, opacity: (i % 2 === 0 ? 0.28 : 0.4),
         stroke: '#241C13', 'stroke-width': 0.4,
       }));
-      // Only label segments wide enough to hold a glyph legibly (Scorpius/Cetus are not).
+      // Only label segments wide enough to hold a glyph legibly (Scorpius is not).
       if (w >= 16) {
         const t = el('text', {
           x: x + w / 2, y: barHeight / 2 + 5, 'text-anchor': 'middle',
@@ -760,5 +741,6 @@
   });
 })();
 </script>
+
 </body>
 </html>
