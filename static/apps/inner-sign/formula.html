@@ -348,14 +348,17 @@
     .prop{ break-inside:avoid-page; padding:13px 15px 15px; }
     .prop p{ font-size:13.6px; margin:6px 0; }
     .corollary{ break-inside:avoid; }
-    .wheel-svg{ width:320px; }
+    .wheel-svg{ width:500px; }
+    .plate .legend{ font-size:12px; margin-top:18px; }
+    .plate .fig-caption{ font-size:13px; }
     .flow-svg{ width:520px; }
     .skies{ grid-template-columns:1fr 1fr; gap:14px; }
     .sky{ padding:12px 14px 14px; break-inside:avoid-page; }
-    .sky p{ font-size:13px; margin:6px 0; }
+    .sky p{ font-size:12.4px; margin:5px 0; line-height:1.5; }
+    .skies + .fig-label{ margin-top:18px !important; }
     .span-bars{ margin-top:14px; }
     .span-bar-row{ margin-bottom:10px; }
-    .reading-note{ break-inside:avoid-page; font-size:13px; padding:10px 14px; }
+    .reading-note{ break-inside:avoid-page; font-size:12.4px; line-height:1.5; padding:8px 14px; margin-top:14px; }
     .colophon{ margin-top:30px; break-inside:avoid-page; }
     aside.margin-note{ break-inside:avoid-page; }
     a[href]::after{ content:""; }
@@ -377,45 +380,44 @@
       <p>Herein is set forth the manner by which a single reading is drawn from four independent demonstrations, each a pure function of the calendar, and each governed by its own proper law. Two demonstrations — the Sign and the Zodiac of Cathay — are fixed upon the day of one's birth and never after alter. Two others — the Number of the Day and the Phase of the Moon — are common to every soul upon a given day, and change with it. What follows is the geometry and arithmetic of each, and the manner of their union.</p>
     </section>
 
-    <!-- FIG I — THREE RINGS -->
-    <section class="page-break">
-      <p class="fig-label">Fig. I — The Three Heavens</p>
+    <!-- FIG I — TWO RINGS -->
+    <section class="page-break plate">
+      <p class="fig-label">Fig. I — The Two Heavens</p>
       <div class="wheel-wrap"><svg class="wheel-svg" id="wheel" viewBox="0 0 560 560"></svg></div>
       <div class="legend">
         <span><span class="dot" style="background:#8B3A2B"></span>Traditional — xii signs</span>
         <span><span class="dot" style="background:#2B3A55"></span>Astronomical — xiii signs</span>
-        <span><span class="dot" style="background:#A8823C"></span>Real Astrology — xiv signs</span>
       </div>
-      <p class="fig-caption">Three concentric skies, each a true partition of the year into unequal arcs — for the heavens were never divided into twelve equal parts by nature, only by convention. The outer ring alone bears Cetus, the Whale, carved from the body of Pisces.</p>
-      <aside class="margin-note"><b>Marginal note.</b> Cetus's bounds, xxi–xxviii March, are InnerSign's own declared convention — no single authority fixes them, and the reading says so plainly rather than feign certainty it does not possess.</aside>
+      <p class="fig-caption">Two concentric skies, each a true partition of the year — for the heavens were never divided into twelve equal parts by nature, only by convention. The outer ring alone bears Ophiuchus, the Serpent Bearer, admitted between the Scorpion and the Archer.</p>
+      <aside class="margin-note"><b>Marginal note.</b> The Astronomical dates are fixed civil-date approximations of the unequal regions the Sun is seen to cross — an educational reckoning, and the reading says so plainly rather than feign a precision it does not possess.</aside>
     </section>
 
-    <!-- FIG II — WHY THIRTEEN, WHY FOURTEEN -->
+    <!-- FIG II — WHY TWELVE, WHY THIRTEEN -->
     <section class="page-break">
-      <p class="fig-label">Fig. II — Why Thirteen Signs, Why Fourteen</p>
-      <p class="fig-caption" style="max-width:640px;">The Traditional twelve divide the year into equal thirty-day estates, by convention alone. The heavens themselves keep no such symmetry. What follows sets out the two further skies, whence each arises, and how the reading itself is remade beneath them.</p>
+      <p class="fig-label">Fig. II — Why Twelve Signs, Why Thirteen</p>
+      <p class="fig-caption" style="max-width:640px;">The Traditional twelve divide the year into near-equal estates of some thirty days, by convention alone. The heavens themselves keep no such symmetry. What follows sets out both skies, whence each arises, and how the reading itself is remade beneath them.</p>
 
       <div class="skies">
+        <div class="sky">
+          <span class="roman">The Traditional Twelve</span>
+          <h4>Whence the Twelve Estates</h4>
+          <p>The familiar tropical signs, Aries through Pisces, each holding near a twelfth of the year — from the xxi of March, when Aries begins, round to the xx of March, when Pisces ends. These are the dates the almanacs print. Their bounds are a convention of the calendar, not a measure of the constellations' true breadth, and the reading honours them as exactly that.</p>
+          <p>This is the Western tropical tradition, anchored to the seasons, and the sky a reading opens upon unless another has been chosen. Here no house is crowded and none sprawls: the shortest holds xxix days, the longest xxxii. A birthday on the xv of June falls to Gemini beneath it, as Proposition I works through.</p>
+        </div>
         <div class="sky">
           <span class="roman">The Astronomical Thirteen</span>
           <h4>Whence Ophiuchus</h4>
           <p>The Sun, in its yearly course, does not pass through twelve constellations of equal breadth — it passes through thirteen, of wildly unequal breadth, for the constellations themselves were drawn by ancient hands, not measured to a common span. Between the Scorpion and the Archer lies a thirteenth house the almanacs omit: <b>Ophiuchus</b>, the Serpent Bearer, occupying the sky from the xxix of November to the xvi of December. This is the table popularly said to be "the sign astronomy remembers and astrology forgot" — no new discovery, only an old omission named aloud.</p>
           <p>Once Ophiuchus is admitted, the twelve estates can no longer be held equal. Scorpius, crowded into a mere six days, and Virgo, sprawling across forty-four, sit upon the same wheel. <i>Fig. III below sets their true proportions side by side.</i></p>
         </div>
-        <div class="sky">
-          <span class="roman">The Real Astrology Fourteen</span>
-          <h4>Whence Cetus, the Whale</h4>
-          <p>A fourteenth house, <b>Cetus</b>, is carved from the body of Pisces — the xxi to the xxviii of March — splitting Pisces into two disjoint estates, one before Cetus and one after. Unlike Ophiuchus, no astronomical body of record fixes Cetus's bounds; this is Inner Sign's own declared convention, offered as a further lens rather than a hidden fact, and named as such wherever it appears.</p>
-          <p>Both Pisces estates, though each now shortened, keep the decan they would have held under Pisces's full, unshadowed span — a birthday inside Cetus's own week resolves to Cetus and never touches Pisces's reckoning at all. See Proposition I's formula, and its note on the Pisces exception.</p>
-        </div>
       </div>
 
-      <p class="fig-label" style="margin-top:32px;">Fig. III — The True Proportions of a Year, Three Ways</p>
+      <p class="fig-label" style="margin-top:32px;">Fig. III — The True Proportions of a Year, Two Ways</p>
       <div class="span-bars" id="spanBars"></div>
-      <p class="fig-caption">Read left to right as the year runs, xii months round. Mark how Scorpius shrinks to a sliver once Ophiuchus is admitted, and how Cetus splits Pisces in twain — this is precisely why no decan may claim a fixed third of ten days; each must take its <i>proportion</i> of whatever span its house is truly given, per Proposition I.</p>
+      <p class="fig-caption">Read left to right as the year runs, xii months round. Mark how Scorpius shrinks to a sliver once Ophiuchus is admitted, while Virgo swells to xliv days — this is precisely why no Inner Sign third may claim a fixed ten days; each must take its <i>proportion</i> of whatever span its house is truly given, per Proposition I.</p>
 
       <div class="reading-note">
-        <p><b>How the reading itself changes.</b> Choosing among the three skies remakes only the Sign and its Decan — the Number of the Day, the Zodiac of Cathay, and the Phase of the Moon are untouched, for none of the three depend upon the sun's house. And the remaking costs less than it first appears: the same company of phrasings serves all three skies alike, since a passage describing Aries's character does not care which table decided a soul is Aries. Only two houses want writing found nowhere in the Traditional twelve — Ophiuchus and Cetus, three decans each — six new fragments raised upon the base six-and-thirty, not three whole companies built anew. Wherever signs are listed for browsing, the newly-admitted house is shown first, that its presence not go unnoticed.</p>
+        <p><b>How the reading itself changes.</b> Moving between the two skies remakes only the Sign and its Inner Sign third — the Number of the Day, the Zodiac of Cathay, and the Phase of the Moon are untouched, for none of the three depends upon the Sun's house. The same birth date, read under either sky, keeps every other part of its reading.</p>
       </div>
     </section>
 
@@ -426,17 +428,18 @@
 
         <div class="prop">
           <span class="roman">Proposition I · Theorema I</span>
-          <h3>Of the Sign and its Decan</h3>
+          <h3>Of the Sign and its Inner Sign Third</h3>
           <svg width="150" height="150" viewBox="0 0 150 150">
             <circle cx="75" cy="75" r="60" fill="none" stroke="#2B3A55" stroke-width="1.5"/>
             <line x1="75" y1="15" x2="75" y2="135" stroke="#5B4A32" stroke-width="0.75"/>
             <line x1="15" y1="75" x2="135" y2="75" stroke="#5B4A32" stroke-width="0.75"/>
             <path d="M75 75 L75 15 A60 60 0 0 1 126 45 Z" fill="rgba(139,58,43,0.18)" stroke="#8B3A2B" stroke-width="1"/>
-            <text x="75" y="80" text-anchor="middle" font-size="26" fill="#241C13">♈</text>
+            <text x="75" y="80" text-anchor="middle" font-size="26" fill="#241C13" font-family="Apple Symbols, Segoe UI Symbol, Noto Sans Symbols, DejaVu Sans, serif">♈&#xFE0E;</text>
           </svg>
-          <div class="formula">decan = min( 2, ⌊ (offset ⁄ span) × 3 ⌋ )</div>
-          <p>A sign's span is not divided into three equal decades, for Ophiuchus spans but xviii days, and Cetus a mere viii — instead each decan claims its proportion of whatever the sign's true length may be.</p>
-          <p class="worked">Worked: 15 June, Traditional → Gemini, offset 25 of 31 days → decan ⌊2.42⌋ = <b>2</b> → <i>gemini_decan3</i>.</p>
+          <div class="formula">third = min( 2, ⌊ (offset ⁄ span) × 3 ⌋ )</div>
+          <p>A sign's span is not divided into three equal decades, for Ophiuchus spans but xviii days, and Scorpius a mere vi — instead each Inner Sign third claims its proportion of whatever the sign's true length may be.</p>
+          <p>Offsets and spans are counted on the calendar of the year 2000, which holds all 366 possible birthdays, the 29th of February among them; so a birthday falls in the same third whatever year it was born in. This is a rule of counting, not a measure of the year: the Sun's true cycle is near 365¼ days, and the day it actually crosses each boundary can fall a day or more either side of the fixed date, depending on the year — a difference the fixed dates deliberately set aside.</p>
+          <p class="worked">Worked: 15 June, Traditional → Gemini, offset 25 of 31 days → ⌊2.42⌋ = <b>2</b> → the last of Gemini's three Inner Sign thirds.</p>
         </div>
 
         <div class="prop">
@@ -456,7 +459,7 @@
             <text x="110" y="82" text-anchor="middle" font-size="18" fill="#8B3A2B">= 7</text>
           </svg>
           <div class="formula">n = reduce( Σ digits(m) + Σ digits(d) + Σ digits(y) )</div>
-          <p>The full date of the present day, digit by digit, summed and summed again until one figure alone remains, 1 through 9 — no master numbers retained, that convention belonging to a different reckoning not yet drawn upon.</p>
+          <p>The full date of the present day, digit by digit, summed and summed again until one figure alone remains, 1 through 9 — the Universal Day Number, as the app names it, with no master numbers retained, that convention belonging to a different reckoning not yet drawn upon.</p>
           <p class="worked">Worked: 17 July 2026 → 7+1+7+2+0+2+6 = 25 → 2+5 = <b>7</b> → <i>day_7</i>.</p>
         </div>
 
@@ -474,9 +477,10 @@
           <span class="roman">Proposition IV · Theorema IV</span>
           <h3>Of the Phase of the Moon</h3>
           <svg width="160" height="160" viewBox="0 0 160 160" id="moonWheel"></svg>
-          <div class="formula">age = (JDN − 2451550.1) mod 29.530588853</div>
-          <p>Eight phases from one continuous age, each bucket centered upon its own true phase rather than merely begun there — a distinction that once misjudged near half of every full and new moon in the sky.</p>
-          <p class="worked">Corrected: 13 of 13 real full moons of 2026, and 3 of 3 new moons, now fall in their rightful house. Before the correction: but 6 of 13.</p>
+          <div class="formula">phase = ⌊ ( (λ☾ − λ☉ + 22.5°) mod 360° ) ⁄ 45° ⌋</div>
+          <p>Eight phases, each centered upon its own true phase angle rather than merely begun there. The angle is no longer reckoned from an average month: for every day from 1900 through 2099 it is the apparent separation of Moon and Sun along the ecliptic at noon, Greenwich time, drawn from NASA JPL's DE440s ephemeris and fixed once in a shared table that every edition of the app reads alike.</p>
+          <p class="worked">Worked: 17 July 2026 → the Moon stands between 22½° and 67½° east of the Sun → bucket 1 → <i>waxing crescent</i>.</p>
+          <aside class="margin-note" style="margin-top:10px;"><b>Marginal note.</b> An earlier form of this demonstration counted the Moon's age from a mean month of 29.53 days. The table replaced it, and is checked against the published new, first-quarter, full, and last-quarter moons of the Royal Observatory Greenwich and the US Naval Observatory.</aside>
         </div>
 
       </div>
@@ -501,8 +505,8 @@
             <!-- four sources -->
             <g>
               <circle cx="80" cy="40" r="30" fill="none" stroke="#8B3A2B"/>
-              <text x="80" y="44" font-size="20">♈</text>
-              <text x="80" y="80" font-variant="small-caps" font-size="11.5">sign + decan</text>
+              <text x="80" y="47" font-size="20" font-family="Apple Symbols, Segoe UI Symbol, Noto Sans Symbols, DejaVu Sans, serif">♈&#xFE0E;</text>
+              <text x="80" y="80" font-variant="small-caps" font-size="11.5">sign + third</text>
             </g>
             <g>
               <circle cx="80" cy="120" r="30" fill="none" stroke="#8B3A2B"/>
@@ -517,7 +521,8 @@
             <g>
               <circle cx="640" cy="120" r="30" fill="none" stroke="#2B3A55"/>
               <text x="640" y="46" font-size="18"></text>
-              <text x="640" y="127" font-size="18">🌗</text>
+              <circle cx="640" cy="120" r="11" fill="#2B3A55" fill-opacity="0.85"/>
+              <path d="M640 109 A11 11 0 0 0 640 131 Z" fill="#EEE7CE" stroke="#5B4A32" stroke-width="0.5"/>
               <text x="640" y="160" font-variant="small-caps" font-size="11.5">phase of moon</text>
             </g>
             <!-- converging lines -->
@@ -593,10 +598,13 @@
     const a = toRad(deg);
     return [cx + r*Math.cos(a), cy + r*Math.sin(a)];
   }
-  const cumDays = [0,31,59,90,120,151,181,212,243,273,304,334];
+  // Offsets and spans use the app's fixed nominal leap-year calendar 2000 (366 days,
+  // 29 February included), so every month/day has one fixed place on the wheel.
+  const YEAR_DAYS = 366;
+  const cumDays = [0,31,60,91,121,152,182,213,244,274,305,335];
   function angleFor(month, day){
     const doy = cumDays[month-1] + day - 1;
-    return (doy/365)*360;
+    return (doy/YEAR_DAYS)*360;
   }
   function wedgePath(cx, cy, rInner, rOuter, startDeg, endDeg){
     if (endDeg <= startDeg) endDeg += 360;
@@ -608,7 +616,19 @@
     return `M ${x1} ${y1} A ${rOuter} ${rOuter} 0 ${large} 1 ${x2} ${y2} L ${x3} ${y3} A ${rInner} ${rInner} 0 ${large} 0 ${x4} ${y4} Z`;
   }
 
-  // ---- Fig I: three-tier zodiac wheel, arcs computed from real boundary tables ----
+  // ---- Fig I: two-ring zodiac wheel, arcs computed from real boundary tables ----
+  // Ophiuchus (U+26CE) is emoji-by-default: iOS Safari draws it as a colour tile even with
+  // U+FE0E, so the page draws it itself in ink -- a U crossed by the serpent's wave.
+  function drawOphiuchus(parent, x, y, size){
+    const s = size / 2;
+    const g = el('g',{fill:'none',stroke:'#241C13','stroke-width':size*0.075,'stroke-linecap':'round','stroke-linejoin':'round'});
+    const title = el('title',{});
+    title.textContent = 'Ophiuchus';
+    g.appendChild(title);
+    g.appendChild(el('path',{d:`M ${x-0.55*s} ${y-s} V ${y+0.35*s} A ${0.55*s} ${0.55*s} 0 0 0 ${x+0.55*s} ${y+0.35*s} V ${y-s}`}));
+    g.appendChild(el('path',{d:`M ${x-s} ${y+0.1*s} C ${x-0.45*s} ${y-0.75*s}, ${x+0.35*s} ${y+0.9*s}, ${x+s} ${y-0.1*s}`}));
+    parent.appendChild(g);
+  }
   const traditional = [
     ["capricorn",12,22,1,19,"♑"],["aquarius",1,20,2,18,"♒"],["pisces",2,19,3,20,"♓"],
     ["aries",3,21,4,19,"♈"],["taurus",4,20,5,20,"♉"],["gemini",5,21,6,20,"♊"],
@@ -622,21 +642,12 @@
     ["libra",10,30,11,22,"♎"],["scorpius",11,23,11,28,"♏"],["ophiuchus",11,29,12,16,"⛎"],
     ["sagittarius",12,17,1,19,"♐"]
   ];
-  const realAstrology = [
-    ["capricornus",1,20,2,15,"♑"],["aquarius",2,16,3,10,"♒"],
-    ["pisces",3,11,3,20,"♓"],["cetus",3,21,3,28,"🐋"],["pisces",3,29,4,17,"♓"],
-    ["aries",4,18,5,12,"♈"],["taurus",5,13,6,20,"♉"],["gemini",6,21,7,19,"♊"],
-    ["cancer",7,20,8,9,"♋"],["leo",8,10,9,15,"♌"],["virgo",9,16,10,29,"♍"],
-    ["libra",10,30,11,22,"♎"],["scorpius",11,23,11,28,"♏"],["ophiuchus",11,29,12,16,"⛎"],
-    ["sagittarius",12,17,1,19,"♐"]
-  ];
 
   const wheel = document.getElementById('wheel');
   const cx = 280, cy = 280;
   const rings = [
-    { rows: traditional,   rInner: 60,  rOuter: 108, color: "#8B3A2B", labelR: 84  },
-    { rows: astronomical,  rInner: 118, rOuter: 168, color: "#2B3A55", labelR: 143 },
-    { rows: realAstrology, rInner: 178, rOuter: 232, color: "#A8823C", labelR: 205 }
+    { rows: traditional,   rInner: 60,  rOuter: 140, color: "#8B3A2B", labelR: 100 },
+    { rows: astronomical,  rInner: 152, rOuter: 232, color: "#2B3A55", labelR: 192 }
   ];
 
   // faint full circles as guide rings
@@ -654,8 +665,9 @@
       wheel.appendChild(wedge);
       let mid = endA >= startA ? (startA+endA)/2 : (startA+endA+360)/2 % 360;
       const [lx,ly] = point(cx,cy,ring.labelR,mid);
-      const t = el('text',{x:lx,y:ly+5,'text-anchor':'middle','font-size': (sign==='cetus'?12:15), fill:'#241C13'});
-      t.textContent = glyph;
+      if (sign === 'ophiuchus') { drawOphiuchus(wheel, lx, ly, 11); return; }
+      const t = el('text',{x:lx,y:ly+5,'text-anchor':'middle','font-size':15, fill:'#241C13','font-family':'Apple Symbols, Segoe UI Symbol, Noto Sans Symbols, DejaVu Sans, serif'});
+      t.textContent = glyph + '\uFE0E';
       wheel.appendChild(t);
     });
   });
@@ -672,7 +684,8 @@
   wheel.appendChild(el('circle',{cx,cy,r:44,fill:'none',stroke:'#A8823C','stroke-width':1}));
 
   // ---- Proposition III: Chinese zodiac wheel ----
-  const animals = ["🐀","🐂","🐯","🐇","🐉","🐍","🐴","🐐","🐒","🐓","🐕","🐖"];
+  // The twelve earthly branches, Rat (子) through Pig (亥): they print, where animal emoji do not.
+  const animals = ["子","丑","寅","卯","辰","巳","午","未","申","酉","戌","亥"];
   const aw = document.getElementById('animalWheel');
   const acx=80, acy=80, ar=58;
   aw.appendChild(el('circle',{cx:acx,cy:acy,r:ar,fill:'none',stroke:'#2B3A55','stroke-width':1}));
@@ -689,7 +702,19 @@
   aw.appendChild(elementLabel);
 
   // ---- Proposition IV: moon phase wheel ----
-  const moons = ["🌑","🌒","🌓","🌔","🌕","🌖","🌗","🌘"];
+  // Each phase drawn as a lit disk (Northern Hemisphere view): emoji Moons do not print.
+  function drawMoon(parent, x, y, r, angle){
+    parent.appendChild(el('circle',{cx:x,cy:y,r,fill:'#2B3A55','fill-opacity':0.85,stroke:'#5B4A32','stroke-width':0.5}));
+    if (angle === 0) return;
+    if (angle === 180){ parent.appendChild(el('circle',{cx:x,cy:y,r,fill:'#EEE7CE',stroke:'#5B4A32','stroke-width':0.5})); return; }
+    const waxing = angle < 180;
+    const rx = Math.abs(Math.cos(angle * Math.PI / 180)) * r;
+    const gibbous = waxing ? angle > 90 : angle < 270;
+    const limb = waxing ? 1 : 0;
+    const d = `M ${x} ${y-r} A ${r} ${r} 0 0 ${limb} ${x} ${y+r} A ${rx} ${r} 0 0 ${waxing ? (gibbous?1:0) : (gibbous?0:1)} ${x} ${y-r} Z`;
+    parent.appendChild(el('path',{d,fill:'#EEE7CE',stroke:'#5B4A32','stroke-width':0.5}));
+  }
+  const moons = [0,1,2,3,4,5,6,7];
   const names = ["new","wax.cres.","1st qtr","wax.gib.","full","wan.gib.","last qtr","wan.cres."];
   const mw = document.getElementById('moonWheel');
   const mcx=80, mcy=80, mr=58;
@@ -700,25 +725,22 @@
     const wedge = el('path',{d: wedgePath(mcx,mcy,30,mr,startA,endA), fill:'#2B3A55', opacity:(i%2===0?0.15:0.25), stroke:'#241C13','stroke-width':0.3});
     mw.appendChild(wedge);
     const [x,y] = point(mcx,mcy,44,deg);
-    const t = el('text',{x,y:y+6,'text-anchor':'middle','font-size':15});
-    t.textContent = m;
-    mw.appendChild(t);
+    drawMoon(mw, x, y, 8, deg);
   });
 
-  // ---- Fig III: proportional span-comparison bars, one per tier ----
+  // ---- Fig III: proportional span-comparison bars, one per lens ----
   // Reuses the same real boundary tables as the Fig I wheel -- these bars are the exact
   // same data, read as a line instead of a ring, so the size disparities (Scorpius's 6
   // days beside Virgo's 44) are legible at a glance rather than inferred from a wedge.
   function daySpan(sm, sd, em, ed) {
     const start = cumDays[sm - 1] + sd - 1;
     const end = cumDays[em - 1] + ed - 1;
-    return end >= start ? end - start + 1 : (end + 365) - start + 1;
+    return end >= start ? end - start + 1 : (end + YEAR_DAYS) - start + 1;
   }
   const spanBarsContainer = document.getElementById('spanBars');
   const barTiers = [
     { name: 'Traditional — xii', rows: traditional, color: '#8B3A2B' },
     { name: 'Astronomical — xiii', rows: astronomical, color: '#2B3A55' },
-    { name: 'Real Astrology — xiv', rows: realAstrology, color: '#A8823C' },
   ];
   const barWidth = 860, barHeight = 34;
   barTiers.forEach(tier => {
@@ -737,19 +759,21 @@
     tier.rows.forEach((r, i) => {
       const [sign, sm, sd, em, ed, glyph] = r;
       const span = daySpan(sm, sd, em, ed);
-      const w = (span / 365) * barWidth;
+      const w = (span / YEAR_DAYS) * barWidth;
       svg.appendChild(el('rect', {
         x, y: 0, width: Math.max(w - 0.6, 0), height: barHeight,
         fill: tier.color, opacity: (i % 2 === 0 ? 0.28 : 0.4),
         stroke: '#241C13', 'stroke-width': 0.4,
       }));
-      // Only label segments wide enough to hold a glyph legibly (Scorpius/Cetus are not).
-      if (w >= 16) {
+      // Only label segments wide enough to hold a glyph legibly (Scorpius is not).
+      if (w >= 16 && sign === 'ophiuchus') {
+        drawOphiuchus(svg, x + w / 2, barHeight / 2, 10);
+      } else if (w >= 16) {
         const t = el('text', {
           x: x + w / 2, y: barHeight / 2 + 5, 'text-anchor': 'middle',
-          'font-size': (w >= 26 ? 13 : 10), fill: '#241C13',
+          'font-size': (w >= 26 ? 13 : 10), fill: '#241C13', 'font-family': 'Apple Symbols, Segoe UI Symbol, Noto Sans Symbols, DejaVu Sans, serif',
         });
-        t.textContent = glyph;
+        t.textContent = glyph + '\uFE0E';
         svg.appendChild(t);
       }
       x += w;
