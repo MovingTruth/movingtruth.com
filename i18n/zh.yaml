@@ -53,6 +53,7 @@ new_out_of_order: "这个系列有一个开始。带你去那里。"
 new_today: 今天
 new_yesterday: 昨天
 new_days_ago: "{{ . }}天前"
+new_gallery_heading: "图库新增"
 
 theme_dark: 深色
 theme_light: 浅色

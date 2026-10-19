@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MovingTruth/MovingTruthLanding/actions/workflows/deploy.yml"><img src="https://github.com/MovingTruth/MovingTruthLanding/actions/workflows/deploy.yml/badge.svg" alt="Deploy status" /></a>
+  <a href="https://github.com/MovingTruth/movingtruth.com/actions/workflows/deploy.yml"><img src="https://github.com/MovingTruth/movingtruth.com/actions/workflows/deploy.yml/badge.svg" alt="Deploy status" /></a>
   <img src="https://img.shields.io/badge/hugo-0.163.1-ff4088?logo=hugo&logoColor=white" alt="Hugo version" />
   <img src="https://img.shields.io/badge/languages-14-C9A84C" alt="14 languages" />
   <img src="https://img.shields.io/badge/CMS-none%20%E2%80%94%20Markdown%20%2B%20Git-1a1a1a" alt="No CMS" />
@@ -85,8 +85,9 @@ boundary between AI assistance and human judgment actually sits:
 ## Repository layout
 
 ```text
-MovingTruth/
-├── content/             # Canonical + localized Markdown (14 languages)
+movingtruth.com/
+├── .release-fabric/     # localization.json — translation ledger (see Multilingual by design)
+├── content/             # Canonical English + localized Markdown
 │   ├── moving-truth/    # Main series
 │   ├── what-if/         # Companion series
 │   ├── blessings/       # Blessings series
@@ -106,9 +107,23 @@ MovingTruth/
 
 ## Multilingual by design
 
-English is the canonical source; every piece, page, and interface string ships in:
+English is the canonical source. The site ships in 14 languages:
 
 `en` `es` `fr` `pt` `de` `ja` `ru` `zh` `ar` `ko` `th` `it` `nl` `hi`
+
+Every series piece and reader page, and every interface string, is published in all
+14. A few routes are English-only by design: the [technical writeup](https://movingtruth.com/craft/),
+the unlisted deploy log (`/log/`), and four legacy `/apps/` pages that redirect to
+[apps.movingtruth.com](https://apps.movingtruth.com/), which carries its own
+translations. The home page is localized through its templates.
+
+The translations are published drafts. They are not yet linguistically reviewed, and
+nothing here claims they are. [`.release-fabric/localization.json`](.release-fabric/localization.json)
+records, for every English source and interface string, a stable ID, the SHA-256 of the
+English, and for each language the translation's hash, the English it corresponds to,
+and its review state, along with the reason for each English-only route. When English
+changes, every translation of it is reported stale until it is updated or a person
+reaffirms it.
 
 Arabic renders right-to-left. Localization is treated as an architecture concern —
 routing, templates, directionality, and workflow — not a translation pass bolted on

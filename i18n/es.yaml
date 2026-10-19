@@ -20,8 +20,11 @@ menu_home: Inicio
 menu_all_series: Todas las series
 menu_more: Más
 menu_about: Acerca de este sitio
+menu_craft: "Artesanía técnica"
 menu_from_creator: De la creadora
 menu_reset: Restablecer progreso
+
+craft_view_source: "Ver el código fuente en GitHub"
 
 reflect_title: Algo en ti ya lo sabía.
 reflect_sub: La parte que te trajo aquí.
@@ -52,6 +55,7 @@ new_out_of_order: "Esta serie tiene un comienzo. Te llevamos allí."
 new_today: hoy
 new_yesterday: ayer
 new_days_ago: "hace {{ . }} días"
+new_gallery_heading: "Nuevo en la galería"
 
 theme_dark: Oscuro
 theme_light: Claro

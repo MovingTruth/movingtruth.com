@@ -72,6 +72,7 @@ new_out_of_order: "This series has a beginning. Taking you there."
 new_today: today
 new_yesterday: yesterday
 new_days_ago: "{{ . }} days ago"
+new_gallery_heading: "New in the Gallery"
 
 theme_dark: Dark
 theme_light: Light

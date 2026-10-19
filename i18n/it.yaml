@@ -72,6 +72,7 @@ new_out_of_order: "Questa serie ha un inizio. Ti ci porto."
 new_today: oggi
 new_yesterday: ieri
 new_days_ago: "{{ . }} giorni fa"
+new_gallery_heading: "Novità nella galleria"
 
 theme_dark: Scuro
 theme_light: Chiaro

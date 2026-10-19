@@ -55,6 +55,7 @@ new_out_of_order: "У этой серии есть начало. Мы отвед
 new_today: сегодня
 new_yesterday: вчера
 new_days_ago: "{{ . }} дней назад"
+new_gallery_heading: "Новое в галерее"
 
 theme_dark: Тёмная
 theme_light: Светлая

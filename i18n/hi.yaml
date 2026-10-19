@@ -72,6 +72,7 @@ new_out_of_order: "इस शृंखला की एक शुरुआत �
 new_today: आज
 new_yesterday: "बीता कल"
 new_days_ago: "{{ . }} दिन पहले"
+new_gallery_heading: "गैलरी में नया"
 
 theme_dark: डार्क
 theme_light: लाइट

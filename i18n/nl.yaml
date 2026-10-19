@@ -72,6 +72,7 @@ new_out_of_order: "Deze serie heeft een begin. We brengen je erheen."
 new_today: vandaag
 new_yesterday: gisteren
 new_days_ago: "{{ . }} dagen geleden"
+new_gallery_heading: "Nieuw in de galerij"
 
 theme_dark: Donker
 theme_light: Licht

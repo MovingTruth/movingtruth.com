@@ -55,6 +55,7 @@ new_out_of_order: "このシリーズには始まりがあります。そこへ�
 new_today: 今日
 new_yesterday: 昨日
 new_days_ago: "{{ . }}日前"
+new_gallery_heading: "ギャラリーの新着"
 
 theme_dark: ダーク
 theme_light: ライト

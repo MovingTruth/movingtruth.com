@@ -55,6 +55,7 @@ new_out_of_order: "Cette série a un début. Nous vous y emmenons."
 new_today: aujourd'hui
 new_yesterday: hier
 new_days_ago: "il y a {{ . }} jours"
+new_gallery_heading: "Nouveau dans la galerie"
 
 theme_dark: Sombre
 theme_light: Clair
