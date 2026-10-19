@@ -70,7 +70,7 @@ new_caught_up: قرأت كل شيء.
 new_back: "→ العودة إلى المتسلسلة"
 new_today: اليوم
 new_yesterday: أمس
-new_days_ago: "منذ %d أيام"
+new_days_ago: "منذ {{ . }} أيام"
 
 theme_dark: داكن
 theme_light: فاتح

@@ -70,7 +70,7 @@ new_caught_up: คุณอ่านทุกอย่างแล้ว
 new_back: "← กลับไปยังชุดเรื่อง"
 new_today: วันนี้
 new_yesterday: เมื่อวาน
-new_days_ago: "%d วันที่แล้ว"
+new_days_ago: "{{ . }} วันที่แล้ว"
 
 theme_dark: มืด
 theme_light: สว่าง

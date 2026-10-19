@@ -10904,10 +10904,10 @@
       "sourceSha256": "f3ca77bcbdb27ce70653979eef442fcaee8df55d8ad623de828ff5ee7efc0193",
       "translations": {
         "ar": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
           "sourceBaseline": "f3ca77bcbdb27ce70653979eef442fcaee8df55d8ad623de828ff5ee7efc0193",
-          "translationSha256": "f57ba98f77dfaa92c4162ef30e555f0d83bf5e0bde5ae659d9f0ea359e45d784"
+          "translationSha256": "48e9162598bd07921e8f7a1405c689957b6d6bcc2ccdbf3b21e9a89c94426f4f"
         },
         "de": {
           "basis": "legacy-observed",
@@ -10946,10 +10946,10 @@
           "translationSha256": "18362d3d18748f468bb851d6ea21d720b448fac21651ae365d2fe6abc4cdae45"
         },
         "ko": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
           "sourceBaseline": "f3ca77bcbdb27ce70653979eef442fcaee8df55d8ad623de828ff5ee7efc0193",
-          "translationSha256": "72d09d78289e0e109bf944460378d357bbd850360475699f112647f86f3fcf0b"
+          "translationSha256": "67f45fcc0660c2b0baa878c4dcbb63fb85f295b6e586c1e7ba00eec24d3a9da6"
         },
         "nl": {
           "basis": "legacy-observed",
@@ -10970,10 +10970,10 @@
           "translationSha256": "506b16670fd03b3f23babc7b6ede0c330dcf938d0dd22a00d28c4b3961fdaa45"
         },
         "th": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
           "sourceBaseline": "f3ca77bcbdb27ce70653979eef442fcaee8df55d8ad623de828ff5ee7efc0193",
-          "translationSha256": "c10bc8f8c0f2a1336e80d5ccc368b30d116188805cf0c429b82307d18c6ca473"
+          "translationSha256": "37eed7911d6a8198bda94e5ab6671edbacfe83555ec4c9b4ad1afd9e72b0531a"
         },
         "zh": {
           "basis": "legacy-observed",

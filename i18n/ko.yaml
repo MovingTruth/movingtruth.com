@@ -70,7 +70,7 @@ new_caught_up: 모두 읽었습니다.
 new_back: "← 시리즈로 돌아가기"
 new_today: 오늘
 new_yesterday: 어제
-new_days_ago: "%d일 전"
+new_days_ago: "{{ . }}일 전"
 
 theme_dark: 어두운
 theme_light: 밝은
