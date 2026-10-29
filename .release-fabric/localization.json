@@ -5260,6 +5260,358 @@
           "translationSha256": "83a2672f5bd980f6602d1116bd2ca36ca42bd6ff5f88c9d9eb157da4faf66368"
         }
       }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0067",
+      "path": "content/what-if/07-what-if-quiet-was-more-than-the-absence-of-sound.md",
+      "sourceSha256": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "1cded598478ccb4674c2b5fc3b05c66bc71ef4d68edbc33106c838de45730eac"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "28cc1c4f76c83ee7c96c3f5ab21acd55abbdf0a2c777a0101e6ee6eb74d873ab"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "7f1f1479556b620dd324c130988fc6e343e0db0a4f75a8987222d24291fe7f4b"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "97d30102b77e8046d066157a62da7e3a7dc046924529e16a8fe5e9810c5668f9"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "2118af0510ec49756b509d8824aa13b6f32c50ace14a7f59c3c767b6546ed9e8"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "1f4cc359fb5c3565c23add5d7486a98771183748bcaf4a893fd04b31a474c175"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "f59a76df1cd63f1a999df2a12cc2972ab72d34c337b620b66e61622f348103c9"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "2ebfd03c7e17fcde63c73d3a5a1e62648193494bf190c3a749bb4a506a377000"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "63f2fb53d58b23705d597bb7fc63b8fdcf35479267ba1831bf087980018abd60"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "e157345d8b7ea88e582bb0ac15b63368710433d986c1f7207337d7ed74a21b77"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "3deeec98d4663128306b50c3a3affa81dc31ebe15f4955b2c3b00e4408a68140"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "b0f5712b7e388515d0a96fd635605005c80bee1207e15c2b350d3dec39549bef"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "6f3a61c3ac2262b95849d42aa635101f1a4602d9e57ed37a79eb9352433acd38",
+          "translationSha256": "53e858f4fa249ebd1c9416b135024b32d7a06d858db7171fb32cb83ddcc1614b"
+        }
+      }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0068",
+      "path": "content/just-a-thought/09-in-case-they-believed.md",
+      "sourceSha256": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "65db654533d58875a4fad51b0ec13a48aac332aaf52634c9771b4f77b010e99d"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "bb02f1160d2862c88baeac6090d8b14ded3c50a9f4822af4afa41cc78659b0b4"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "a4edb311ff54fdf4cac473a7f8721a7328a2033f0b10e9e1aa741230e75532ae"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "4512ceb1e68aedebc68681562e32aae3130e3c110ad740a997a5e0fc66217828"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "415bc079de7b3664b6ee5197196ae43a974aa93972bbbefec33e6c9181b87e8f"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "5c9cf2425897ad5682e6d293e5592be249035042d82e5dff75926561bdab31b7"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "309b13f462ecb7e238b84c21c6a6d81669d08e858db1c6122596bbf577dbc6b0"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "639c7d5e39f19d273233939a82f7a196624d73b597e90216b9bd6cfde6e68a7c"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "35fa763866b6f2090901ebae3b949f3e00786deff018ff5fa0043083c2e27565"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "b2e2d674005a3b5b96de6e93155a6f69956d77a895d5d476854c4b69d6a455f7"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "d4393ba91110f2767203a54e0d2ccd04863ae380119b34dfaed8c8dfa1c9f99b"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "e0a1f5543093d600be7094a9e1ae3470bda37672dc233f3977cb855a8ff8e194"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "c9a03d23eeaa1562d1437c20aac5f777db888ce3645e769a130746ff25d19c7a",
+          "translationSha256": "f4d937af90ae27c27c6b3cf5e6f51977737c60a06ef8a36585c5cf62755a2397"
+        }
+      }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0069",
+      "path": "content/just-a-thought/08-just-bad-luck.md",
+      "sourceSha256": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "45964b8374fcc2286a5b174323332ba692313a03fee919b69962084e851971f1"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "614952aede74c20fe00ee6210f74060ea4f1e662fa94071ae95b2a320cecbdb0"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "a1d777733cca3291f6008d50bc1d5e0e22cd3eaa70ca615911ba23721e0c5f0c"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "a987cd7664e22dd172fb91a5e7fd45e15f753a278fe1c77daceff2a3fc741855"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "2b4db0185a4ff6c5c30c0cea2d5da8820b09b8bc2577d467cf931b5f24db4346"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "e8b7b4e97e55113b146f004c1af94b45864f5081d0634e85481e30a98a122247"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "5bd7a825b05c833360ef8e81701979c270fa5b0f80fdb0d9883862a2bb4454b6"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "9a014f596721b34819d21c99705a88b1ab789d51ec486654917dc38e5c4f1868"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "9eab5b149c8a067e77c9bb68caf833e5b12f00818d723982af16d4b40651f144"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "6c4796a9351e08fdf47db7cf9b4db1ad26a47f0bcf77617a6ff33626bd4f78b7"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "61f49f4fbe7de0e474437350533593b832915901acc6e3137f6951eaa0dd3531"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "8ae49ad4e569b3ec2ed17280ca51b38af59aa620818ce98e6b6f3e82c583459d"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "60bd5ba5a48b89da806020cf150eb8d862c5186795a906a5f7902e361548fb4e",
+          "translationSha256": "1c7f05d8c98acd31415cb185a5b5265873e3a0f10f94e94eea1a10bad6cb6e9b"
+        }
+      }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0070",
+      "path": "content/moving-truth/10-the-cost-of-saying-no.md",
+      "sourceSha256": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "67b7e661906b07ad2c808b7e535574d127184c43206220c2ee016b9ea83ac204"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "fefdc4f67f374fb9c21042b8c5d5d71443086166f15a69ec14f63a0f9a10e94e"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "575764d836fd53986a7313833ee66f5ca3bf2882890cd53481a92bf8881a81d4"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "a17c3d6aee69cf52a51e829b4be54b27d4ee0fb552c81da9f91541c6efc4b05f"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "6a0fce14ef35ecc8bdc7bb07ee12ef057aa46ac379ac5d69d085266797ced1c4"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "c38c0a9b07d8f7755dee57c559159bef1a1ff50386550d5d99d110fea4cf364e"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "46b2e279f32c51a40aa489178ea36f25576b4551f50f9d2176c56e1489887f28"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "630cfd9cbd0f4c0d50da6c343ed85512aac29375d97f0dd3aa810e1bc92d6a89"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "bd4fb5a9e33dfb1289d4014e7a666504a919108c6988371e065ed0db7992cc30"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "4f65eeeab4ce482de0eddbbb37bf7ee65543df2ea9e9f5f82baf8511c33e8014"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "18297991137c69c4f0cc4f0722d8cb53a8b9dd253b1cfff18607685a88708408"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "56efbf92c8c7cba595cb6b5abd31eb757a8d519afed46823c5d97497558430ce"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "403ba8c331a29614cb9898f99f15aa43f2713e85209d4943fb25e62bb56c93b5",
+          "translationSha256": "97ae7b04a38225525c66f6a290534e5b4d41329ad0603b02c4eb1470f4868882"
+        }
+      }
     }
   ],
   "interface": [

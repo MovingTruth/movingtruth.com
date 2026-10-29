@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-10-29
+
+- `themes/temple/assets/js/reflect.js` — After the reader starts reflection and completes the countdown, the overlay Continue button navigates directly to the next localized story. The final story returns to series selection. Replaces the return-to-footer/support-link pulse; existing timer, progress persistence, blessing and closing modes remain intact.
+
+- `themes/temple/layouts/_default/baseof.html`, `themes/temple/assets/js/mt-notice.js` — Show the reading-order notice automatically only on the Moving Truth section index, in every locale. Landing pages, other series, and individual stories no longer auto-open it or consume its acknowledgement. Preserve once-per-session acknowledgement, manual footer help, keyboard handling, and progress reset.
+
 ## 2026-10-19
 
 - `.release-fabric/localization.json` — Added a translation ledger. Every canonical English Markdown source (66) and every interface key (91) has a stable, language-neutral ID and the SHA-256 of its English. For each of the 13 other languages it records the translation's hash, the English that translation corresponds to, and its review state. It also records the reason each of seven English sources has no translated siblings: the home page is localized through templates; `/craft/`, `/log/` and the four legacy `/apps/` redirect pages are English-only by design. The existing translations are recorded as published drafts, observed as of commit `ebd0d16`: this marks where future English changes are measured from, and is not a claim that they were reviewed. When English changes, its translations are now reported stale until each is updated or a person reaffirms it. Nothing on the published pages changes because of this file.

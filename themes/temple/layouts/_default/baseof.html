@@ -116,7 +116,8 @@
   </div>
 </div>
 
-<div id="mt-notice" class="mt-notice" style="display:none;" aria-modal="true" role="dialog" aria-labelledby="mt-notice-title">
+{{/* Only the Moving Truth section entrance automatically explains sequential reading; manual help stays available everywhere. */}}
+<div id="mt-notice" data-auto-show="{{ and .IsSection (eq .Section "moving-truth") }}" class="mt-notice" style="display:none;" aria-modal="true" role="dialog" aria-labelledby="mt-notice-title">
   <div class="mt-notice-box">
     <p class="mt-notice-title" id="mt-notice-title">{{ i18n "notice_title" }}</p>
     <p class="mt-notice-body">{{ i18n "notice_body_1" }}</p>

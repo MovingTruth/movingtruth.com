@@ -26,7 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
     if (e.key === 'Tab') { e.preventDefault(); if (btn) btn.focus(); }
   });
 
-  if (!MT.getSessionValue('mt_noticed')) showNotice(true);
+  // Hugo identifies the section entrance across all locales; other pages must not consume the first-visit notice.
+  if (notice.getAttribute('data-auto-show') === 'true' && !MT.getSessionValue('mt_noticed')) showNotice(true);
 
   if (btn) {
     btn.addEventListener('click', function () {

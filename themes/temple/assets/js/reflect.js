@@ -271,19 +271,10 @@ document.addEventListener('DOMContentLoaded', function () {
       overlayContinue.style.display = '';
       overlayContinue.addEventListener('click', function () {
         dismissOverlay();
-        if (!isFinal) {
-          setTimeout(function () {
-            var supportLink = document.querySelector('.support-link');
-            if (supportLink) {
-              supportLink.scrollIntoView({ behavior: 'smooth', block: 'center' });
-              void supportLink.offsetWidth;
-              supportLink.classList.add('support-link--pulse');
-              supportLink.addEventListener('animationend', function () {
-                supportLink.classList.remove('support-link--pulse');
-              }, { once: true });
-            }
-          }, 700);
-        }
+        // Follow the localized next-story URL only after reflection is complete
+        // and the reader explicitly continues; the final piece returns to series selection.
+        var destination = !isFinal && nextLink ? nextLink.dataset.href : seriesPage;
+        setTimeout(function () { window.location.href = destination; }, 600);
       }, { once: true });
     }
   }
