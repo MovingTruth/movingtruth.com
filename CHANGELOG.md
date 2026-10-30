@@ -4,6 +4,10 @@
 
 ---
 
+## 2026-10-30
+
+- `content/apps/inner-sign.md`, `.release-fabric/localization.json` — Reconcile `fix/inner-sign-two-lenses`: correct the legacy English-only app description from three sky lenses to two and update its recorded source hash. Retain the newer `main` formula page unchanged, including its verified Moon-table explanation, source qualifications, and print fixes. Merge the old branch history without replacing later site work.
+
 ## 2026-10-29
 
 - `themes/temple/assets/js/reflect.js` — After the reader starts reflection and completes the countdown, the overlay Continue button navigates directly to the next localized story. The final story returns to series selection. Replaces the return-to-footer/support-link pulse; existing timer, progress persistence, blessing and closing modes remain intact.
