@@ -1013,6 +1013,18 @@ body.inner { min-height: 100vh; display: flex; flex-direction: column; }
   gap: 1.5rem;
 }
 
+/* A restrained divider keeps the creator message outside the series paths. */
+.creator-message-divider {
+  border-top: 1px solid var(--border);
+  margin: 2.5rem 0 1.25rem;
+}
+
+/* The standalone creator card uses the standard grid width and a square
+   proportion so it remains visually balanced without reading as a series. */
+.creator-message-card {
+  aspect-ratio: 1;
+}
+
 .series-card {
   display: block;
   background: var(--bg-card);
