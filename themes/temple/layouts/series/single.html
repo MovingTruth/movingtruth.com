@@ -60,6 +60,21 @@
   </div>
   {{ end }}
 
+  {{/* From the Creator stays separate from the series paths, mirroring the
+       visual division between the Moving Truth backbone and the other paths.
+       The single card opens the newest localized creator message directly. */}}
+  {{ with .Site.GetPage "/messages" }}
+  <div class="creator-message-divider" aria-hidden="true"></div>
+  <div class="series-grid">
+    {{ range first 1 .RegularPages.ByDate.Reverse }}
+    <a href="{{ .Permalink }}" class="series-card creator-message-card">
+      <h2>{{ .Title }}</h2>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      <span class="series-count">{{ .Date.Format "January 2, 2006" }}</span>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
 
 </section>
 {{ end }}

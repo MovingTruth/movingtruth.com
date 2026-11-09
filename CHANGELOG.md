@@ -4,6 +4,10 @@
 
 ---
 
+## 2026-11-09
+
+- `themes/temple/layouts/series/single.html` and `themes/temple/assets/css/temple.css` — Added the newest localized “From the Creator” message beneath the series paths as one square card, separated by a restrained divider line. It uses the standard series-grid width and the same title, description, and date treatment as the card on `/messages/`, while opening the message directly. The existing hamburger-menu link, creator content, and `menuOnly` behavior remain unchanged.
+
 ## 2026-10-30
 
 - `content/apps/inner-sign.md`, `.release-fabric/localization.json` — Reconcile `fix/inner-sign-two-lenses`: correct the legacy English-only app description from three sky lenses to two and update its recorded source hash. Retain the newer `main` formula page unchanged, including its verified Moon-table explanation, source qualifications, and print fixes. Merge the old branch history without replacing later site work.
