@@ -5612,6 +5612,94 @@
           "translationSha256": "97ae7b04a38225525c66f6a290534e5b4d41329ad0603b02c4eb1470f4868882"
         }
       }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0071",
+      "path": "content/moving-truth/11-the-second-price.md",
+      "sourceSha256": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "9bb7d1899681794ed39fd57ae8edccff81631c4ddcbd2a84a03ad81ff8edc8e4"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "42ff91000cf24191839c25be8fbac67b9fdadc5ff95becc7ba291c4cd8d1984d"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "3625914cf77affb9785df7f5d1369f78e0d4c4276fa1063db207d835a547754a"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "2937c0054c01d9e3ef80380414bac00e70eba88fc367ced32b534478ae64622f"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "21810b5bb51ab3f4949f75d5d10817d6b6a0c1a1ab1541c9d57f74ec15a89d94"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "c039f42f935cf2ed39ae846b0f97fb82b1b0047432ada8b92e1b20df63a67886"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "51f727d0a9d2456bb3af1ab3e5f0685a76dbd944c93888bd87f6aa1efeaeff2c"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "7d340964ba7932d0b35dd2a1a1e1bb322b6c6acd32c89980d62d19352bc2337a"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "534e6ed454826ae324b1d5fdac030b19dcf49a1962ba3c2c64983ee21d8ad1ec"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "c2f35eebb4df07c8f1b606c7efc72b242caa204253672224a67557017c0b8a75"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "b866563a755e38f7e551d33c004d0ab4bdcfe10d23d1658bc78f6f5a90af6660"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "9256c60f234f9ec2130ac5e4e08738e683c4602d13bb2354c328141b9fb538e8"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "2586be91dd1b24f113ad858278f3681ec1a00be91bcc43a2b448b6b9294f4b2b",
+          "translationSha256": "d10b87e9f9df7c580449b80198589ff573dd347e384a948948682e742afb9167"
+        }
+      }
     }
   ],
   "interface": [
