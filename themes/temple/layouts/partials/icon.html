@@ -1,10 +1,26 @@
 {{- $name := . -}}
 {{- if eq $name "spiral" -}}
-<span class="series-icon" aria-hidden="true">✨</span>
+<svg class="series-icon series-icon--blessing" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+  <path d="M24 5c0 9.8-4.2 15-13 19 8.8 4 13 9.2 13 19 0-9.8 4.2-15 13-19-8.8-4-13-9.2-13-19Z" />
+  <path d="M9 7v8M5 11h8M39 33v8M35 37h8" />
+</svg>
 {{- else if eq $name "book" -}}
-<span class="series-icon" aria-hidden="true">📖</span>
+<svg class="series-icon series-icon--book" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+  <path d="M24 14.5C19.2 10.7 13.5 9.2 7 10.5v27c6.5-1.3 12.2.2 17 4Z" />
+  <path d="M24 14.5c4.8-3.8 10.5-5.3 17-4v27c-6.5-1.3-12.2.2-17 4Z" />
+  <path d="M24 14.5V41.5" />
+</svg>
 {{- else if eq $name "brain" -}}
-<span class="series-icon" aria-hidden="true">🧠</span>
+<svg class="series-icon series-icon--brain" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+  <path d="M24 11.5a7 7 0 0 0-12.6 4.2A7.2 7.2 0 0 0 9 29.4a7 7 0 0 0 8.1 8.2A7 7 0 0 0 24 43Z" />
+  <path d="M24 11.5a7 7 0 0 1 12.6 4.2A7.2 7.2 0 0 1 39 29.4a7 7 0 0 1-8.1 8.2A7 7 0 0 1 24 43Z" />
+  <path d="M24 15v28M13 18.5c4-.4 6.4 1.5 7.1 5M11.5 30c3.7-1.2 6.7.1 8.2 3.7M35 18.5c-4-.4-6.4 1.5-7.1 5M36.5 30c-3.7-1.2-6.7.1-8.2 3.7" />
+</svg>
 {{- else if eq $name "compass" -}}
-<span class="series-icon" aria-hidden="true">🧭</span>
+<svg class="series-icon series-icon--compass" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+  <circle cx="24" cy="24" r="18" />
+  <path d="m31.5 16.5-4.7 10.3-10.3 4.7 4.7-10.3Z" />
+  <circle cx="24" cy="24" r="1.8" />
+  <path d="M24 6v3M24 39v3M6 24h3M39 24h3" />
+</svg>
 {{- end -}}
