@@ -1025,6 +1025,19 @@ body.inner { min-height: 100vh; display: flex; flex-direction: column; }
   aspect-ratio: 1;
 }
 
+.creator-message-icon {
+  display: block;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0 0 1.25rem;
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 1.35;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.82;
+}
+
 .series-card {
   display: block;
   background: var(--bg-card);
@@ -1120,22 +1133,27 @@ body.inner { min-height: 100vh; display: flex; flex-direction: column; }
   display: block;
   color: var(--accent);
   flex-shrink: 0;
-  line-height: 1;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 /* In menu links, icon sits inline beside the series name */
 .mt-menu-link .series-icon {
-  display: inline;
-  font-size: 1em;
-  margin-right: 0.3em;
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  margin-inline-end: 0.35em;
+  vertical-align: -0.17em;
 }
 
 .series-card .series-icon {
-  width: 2rem;
-  height: 2rem;
-  font-size: 2rem;
-  margin: 0 auto 0.75rem;
-  opacity: 0.85;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 0 0 1.25rem;
+  opacity: 0.82;
   transition: opacity 0.2s;
 }
 
