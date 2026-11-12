@@ -5700,6 +5700,94 @@
           "translationSha256": "d10b87e9f9df7c580449b80198589ff573dd347e384a948948682e742afb9167"
         }
       }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0072",
+      "path": "content/moving-truth/12-the-waiting-tax.md",
+      "sourceSha256": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "9fbd9d72bb38a929775d09234f44ed62fec7fb517cb4fe03777929549b8d4daa"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "bea81a10db480638598a7e7b4a96b6fa6de7e5693aa5a200e9c470e07dcfb6de"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "13bdebb7b1c7da57eaadbd4e8b3c00b4d5b81e81372877797fa7d0a96c2981ac"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "78083e18a42eca322771b1bbd8f0132a9179e82b9bbb258f6db9ae02092c4b61"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "6ba9015b71f749384f6de9d3d83b75214776f7f1aca6afad148dee275bb0981c"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "f7d403ae25232ee18d50914f01cd55aff85f17f58a0f2d03e42ebcb87e0e520e"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "188783bf88517fad5ba773db408f3770734d899cd59ca1a8472dcc8c11a55263"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "a8b0879c2131c096d6c84017e8613a729e7d0cbee886b75dab3c92274e7f827f"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "7d300a512fea72c5352fa4ded19a72207b99f5911fa6e840ac58d450c52d5273"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "4543273d18070bd769a45d09cff8e57d6b8d3cd585a468079aec924094e93e6e"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "0ea2db5031949d9969e1459d7b7e52f159029d7fa5770e3a2f3a1b4e2372ab38"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "04f5fba13e783f99053836f2469c745f2e507499fd9a6bcc5b58d34d51fbc1ce"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "e76e926616ff2476d61947b39e774f6bf163776ac6344917833f1c80b198205e",
+          "translationSha256": "5f5d39167b1076ea33f2919cbf7c29fab3158baabd3fa4900e94aad328860e43"
+        }
+      }
     }
   ],
   "interface": [
