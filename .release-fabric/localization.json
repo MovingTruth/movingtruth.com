@@ -3595,85 +3595,85 @@
       },
       "id": "mt.content.0048",
       "path": "content/moving-truth/06-before-the-ballot.md",
-      "sourceSha256": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
+      "sourceSha256": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
       "translations": {
         "ar": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "f0dd168bfbc60b36280b8c6f1d18cb9fd26a3328dcd5edfb8af85bf9bee157fa"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "bfae6801d31b126c426268e4b281ff54951949c1a7ca8c27926181a1cbff11cc"
         },
         "de": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "e8dccdf04aafc33193d5dabd104151cd68847c8619fa07adfff059665e81efd5"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "f9ad1c76d35b254a38354b69a38ad02b65401240e9bd61800fd55958065d1c58"
         },
         "es": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "8268f9cf7ec7cdb37a7bbdce0cea5c39fdfdb69576f1d3956f4de28799b300dc"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "cf1b656580b7b37546c8cad15a42215481bbdbddfc4d1db10f2b305964b36bf8"
         },
         "fr": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "cd79274db930ad52f7ada3f350d97a1dc23eca77d02099e5aa4914b269f1f1f4"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "2c18c163d393f63872b03cc966a34499dce14d8c1fb4b55b481d3e8f3c558329"
         },
         "hi": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "b07d4f12cf2aeeb1bf4d46d99504a7200de2caa2badd45f9016234ddea10db6f"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "f6cb57f228e765ca62e13796347a2aa000add9f855d191ff6d0059eb25c653ad"
         },
         "it": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "3b8668fe7463440c257f3187dd9d7e7c8c21d16be0fb1e366411ad9b2435a454"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "a0f8fed867d536ec9ac5b8517c3c0a4dcc42ee35a6bfed10018289428b4aaca9"
         },
         "ja": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "12efa0a5371193272543aa98e6c573f5e32a29c532bc8d1fa84475054116b245"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "f5d09bfe01fa869df0156783949cf02d8b55b0cd7cc1b372dd8c72acb0b0d35f"
         },
         "ko": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "2dbe496bebc7c4356d08a274cbf3a992867164bd5f21e54830f0bb9d9cad307b"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "ae56821f56aaeddf9d225151fa360f53ed8b397910ed3c7917a1ed47a866b2d1"
         },
         "nl": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "ef3d0f2fc7714290be1d2b8bf58c1f721934f7ef1294b97da7e5180a4631f311"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "786fbf40fbde2bc9cafa867468e8f055060d00c0b4579febf0e448c31885d6ed"
         },
         "pt": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "5837cf340a1235573c7c5721581c5034135f0cb82832a423482a232cc52c1814"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "0d881111210ea7e57e26a71bc58ca275e0e130d0c95ce8fbad0a4b735c201d93"
         },
         "ru": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "3255dfb894f65b5250db369551fee7bca83dfe441110b6f3bbd86f56dbce7486"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "1ae66c77d6769191916ae8fd0cd813250c671f143e10bb2dcad29c6c90653548"
         },
         "th": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "d294769e9aeda17aae9c139f8069ac77d420e87884df16a7b2f5083324b71cfd"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "cfe03d75a59461f8576cc6aa75d0578d5b3941e2cd964ea8d65c8d9fea0e6253"
         },
         "zh": {
-          "basis": "legacy-observed",
+          "basis": "translated",
           "review": "unreviewed",
-          "sourceBaseline": "34190424099efda83ea261dc93c39ca5a210f7cda1cbb6b4c8072570d0310df4",
-          "translationSha256": "a6803db8184964b16e1f8f3eeec32478b4d0f7fee359bb936fc3e86de49c48b8"
+          "sourceBaseline": "24e8701369fa49827082a32b1a21c6c4dd05690c0c7c9ddee8bf4cf4183eeab4",
+          "translationSha256": "f2362a4b9cf06ffdfd3d564d2fa386c34e3ecada949c809db012593676aeec57"
         }
       }
     },

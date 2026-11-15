@@ -3,127 +3,131 @@ title: "选票之前"
 series: "Moving Truth"
 part: 6
 date: 2026-07-01T00:00:00
-description: "选票上的人在选票存在之前就已被选中。该项目的创始人本人亲口说过。"
+description: "早在一些领导人登上最高职位之前，一个国际网络就已经选中了他们。"
 ---
 
-有人在你之前就选了他们。
-
----
-
-不是在暗处。
-
-在有名字的建筑里。有地址。有公开的年度报告。
+有人比你更早注意到他们。
 
 ---
 
-World Economic Forum（世界经济论坛）有一个项目。
+不是在阴影里。
 
-他们称之为 Young Global Leaders。
-
-自1993年以来，约有一千四百人通过了这个项目——以影响力和潜力为标准被选中，被纳入一个持续性网络，被引入一套关于世界应如何运作的特定理念。
-
-选拔发生在人们足够年轻、可以被塑造的时候。足够成熟，已在上升轨道。
+而是在有名称的建筑里。有地址。有公开发布的年度报告。
 
 ---
 
-看看他们去了哪里。
+1992年，World Economic Forum创建了名为Global Leaders for Tomorrow的网络。
 
-Emmanuel Macron——法国总统。Justin Trudeau——加拿大总理。Jacinda Ardern——新西兰总理。Nicolas Sarkozy——法国总统。Angela Merkel——德国总理。Tony Blair——英国首相。
+它的后继组织是Forum of Young Global Leaders。
 
-承载你新闻、塑造你信息流、决定二十亿人被允许说什么的平台的CEO。
+据WEF称，该社群如今拥有来自120多个国家的1,400多名成员和往届成员。
 
-财政部长。央行行长。贸易专员。内阁成员。媒体高管。
-
-同一个项目。数十个国家。同一代人。
+他们在仍低于规定年龄时获得提名。在已经开始崭露头角后被选中。跨越政府、商业、媒体、大学和公民社会建立联系。
 
 ---
 
-想想在被选举之前进入那个房间意味着什么。
+看看其中一些人后来走到了哪里。
 
-被塑造、被连接、被准备——然后站在演讲台上请求你的选票。
+埃马纽埃尔·马克龙——法国总统。杰辛达·阿德恩——新西兰总理。安格拉·默克尔——德国总理。尼古拉·萨科齐——法国总统。托尼·布莱尔——英国首相。
 
-准备在先。
+马克·扎克伯格——Facebook创始人。
 
-你出现在最后。
+部长。中央银行行长。科技公司创始人。媒体高管。
 
----
-
-项目创始人描述了他们所建立的一切。
-
-2017年，在 Harvard's Kennedy School 的一次录制访谈中，Klaus Schwab 说：
-
-*"我们现在真正感到自豪的是，这一代年轻人，如 Trudeau 总理、Macron 总统等等，我们已经渗透进了内阁。"*
-
-他说这话时充满自豪。
-
-因为从他所处的位置来看，这不是问题。
-
-这就是目的。
+两个项目。一条制度传承。数十个国家。前后相继的几代人。
 
 ---
 
-他们把它叫做学校。
+想想看，在登上最高职位之前进入这个网络意味着什么。
 
-学校教导学生。
+被选中、被连接，并获得高管教育——后来再站上讲台，请求你的选票。
 
-你怎么称呼一个在人们尚未拥有权力之前就加以选拔、在身份认同尚在形成时加以塑造、跨越国界与行业加以连接——然后看着他们入座的项目？
+网络先出现。
 
----
-
-你在他们之间做了选择。
-
-你没有选择他们本身。
-
-站在你面前的那个版本，早已在你未被邀请的地方被塑造完成。
+选民后来才见到他们。
 
 ---
 
-你选了哪一个并不重要。
+该项目的创始人描述了它的影响范围。
 
-两个都经过了那些房间。
+在Harvard Kennedy School于2017年录制的一场讨论中，Klaus Schwab表示，他为Young Global Leaders进入各国政府内阁感到自豪。他声称，Justin Trudeau内阁中有一半或更多成员属于该社群。
 
-房间的名字可能不同。
+公开记录确认了该内阁中的数名成员。
 
-过程是相同的。
+但记录并未证实Schwab所声称的比例。
+
+记录也未证实Trudeau本人曾是Young Global Leader。
+
+有文件支持的网络已经足够。无需更大的主张。
+
+---
+
+他们称之为社群。
+
+该社群提供会议、人际联系、项目，以及通过Harvard、Oxford和Stanford等大学开展的高管教育。
+
+一个网络识别已经开始上升的人，把他们跨越国界和行业连接起来，给予彼此特殊的接触机会——然后看着其中一些人登上最高职位。这样的网络该叫什么？
+
+---
+
+以后，你可能会在他们之间作出选择。
+
+但网络注意到谁，并不是由你选择的。
+
+站在你面前的人，可能已经带着在你未获邀请的地方建立的关系。
+
+---
+
+你选择谁很重要。
+
+那个人经过哪些房间，也很重要。
+
+那些房间可能有不同的名字。
+
+联系可能继续存在。
 
 ---
 
 你的选票是真实的。
 
-它改变了那张脸。
+它会改变谁坐在那个位置上。
 
-它改变不了那些房间。
+但它不会向你展示帮助那个人走到那里的一切关系。
 
 ---
 
-选票不是开始。
+选票并不总是起点。
 
-它是一个你没有设计、无法进入、也未被邀请参与的过程的最后一步。
+当一个名字出现在选票上时，其他机构可能早已识别、连接并投资于这个人。
 
-你出现了。你选了。那是你的部分。
+选择仍由你作出。
+
+但你是在已经抵达的名字中选择。
 
 ---
 
 这不是过去的事。
 
-那些房间依然满员。
+该社群仍在挑选新成员。
 
-下一批名字正在被塑造。
+下一批名字已经在彼此相见。
 
-你还会被再次询问。
-
----
-
-他们被准备好了。
-
-没有人告诉你是为了什么。
-
-那些房间仍在开会。
+以后，你可能会被要求在他们之间作出选择。
 
 ---
 
-*本文中提及的组织与人物均为真实存在，有文件记录为证。*
+他们已经建立了联系。
 
-- **World Economic Forum Young Global Leaders：** weforum.org/young-global-leaders。该项目于1993年以"Global Leaders for Tomorrow"为名创立，2004年更名为 Young Global Leaders。校友名单已向公众公开。
-- **Klaus Schwab，Harvard Kennedy School，2017：** 该访谈已录制并公开发布。Schwab 关于"渗透进内阁"的表述，是在讨论 Young Global Leaders 校友在政府中的影响力的语境下作出的。
-- **Emmanuel Macron、Justin Trudeau、Jacinda Ardern、Nicolas Sarkozy、Angela Merkel、Tony Blair：** 均已被列入或公开确认为 WEF Young Global Leaders 校友。
+问题是，这些联系后来承载了什么。
+
+而那些房间仍在举行会议。
+
+---
+
+*证据轨迹——核查于2026年11月14日：*
+
+- **项目沿革：** [WEF表示](https://www.weforum.org/stories/social-innovation/young-global-leaders-ygl-20/)，Global Leaders for Tomorrow始于1992年，后来被重组为Forum of Young Global Leaders。[WEF在2022年报告](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders)，YGL在120多个国家拥有1,400多名成员和往届成员。
+- **已核实的成员：** [WEF记录将Emmanuel Macron列为](https://www3.weforum.org/docs/WEF_Annual_Report_2016_17.pdf)2016届YGL，并将[Jacinda Ardern](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders)列为知名YGL成员。[WEF的机构史](https://www3.weforum.org/docs/WEF_First40Years_Book_2010.pdf)将Angela Merkel、Nicolas Sarkozy和Tony Blair列为最初的Global Leaders for Tomorrow。WEF也曾[将Mark Zuckerberg称为](https://www.weforum.org/media/forum-in-the-news-may-10)往届YGL。
+- **Justin Trudeau：** 未找到当年的WEF届次记录来证实Trudeau是YGL。因此，本文不把他列为往届成员。
+- **Klaus Schwab，Harvard Kennedy School，2017年：** [官方录像](https://www.youtube.com/watch?v=AoBRnrtX9U4)记录了Schwab关于Trudeau内阁中YGL代表比例的说法。本文将其作为Schwab本人的主张，而不是经过独立核实的人数统计。
+- **成员身份能证明什么：** 入选和成员身份能证明一个人可以接触该网络、会议、项目和教育。仅凭这些，不能证明协调、控制，也不能证明其导致了任何后来的政策决定。
