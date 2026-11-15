@@ -1,12 +1,12 @@
 ---
-title: "Vóór het Stembiljet"
+title: "Vóór het stembiljet"
 series: "Moving Truth"
 part: 6
 date: 2026-07-01T00:00:00
-description: "De mensen op het stembiljet werden gekozen voordat het stembiljet bestond. De oprichter van het programma zei het zelf."
+description: "Lang voordat sommige leiders hun hoogste ambt bereikten, had een internationaal netwerk hen al geselecteerd."
 ---
 
-Iemand koos hen voordat jij dat deed.
+Iemand had hen opgemerkt voordat u dat deed.
 
 ---
 
@@ -16,114 +16,118 @@ In gebouwen met namen. Met adressen. Met gepubliceerde jaarverslagen.
 
 ---
 
-Het World Economic Forum heeft een programma.
+In 1992 richtte het World Economic Forum een netwerk op met de naam Global Leaders for Tomorrow.
 
-Ze noemen het Young Global Leaders.
+De opvolger daarvan is het Forum of Young Global Leaders.
 
-Sinds 1993 zijn ongeveer veertienhonderd mensen erdoorheen gegaan — geselecteerd op invloed en potentieel, opgenomen in een blijvend netwerk, geïntroduceerd bij een bepaald idee over hoe de wereld zou moeten werken.
+Volgens het WEF telt de gemeenschap nu meer dan veertienhonderd leden en alumni uit meer dan honderdtwintig landen.
 
-De selectie vindt plaats wanneer mensen jong genoeg zijn om gevormd te worden. Oud genoeg om op weg naar boven te zijn.
-
----
-
-Kijk waar ze terechtkwamen.
-
-Emmanuel Macron — President van Frankrijk. Justin Trudeau — Premier van Canada. Jacinda Ardern — Premier van Nieuw-Zeeland. Nicolas Sarkozy — President van Frankrijk. Angela Merkel — Bondskanselier van Duitsland. Tony Blair — Premier van het Verenigd Koninkrijk.
-
-De CEO van het platform dat jouw nieuws draagt, jouw feed vormgeeft, en beslist wat twee miljard mensen mogen zeggen.
-
-Ministers van Financiën. Centrale bankgouverneurs. Handelscommissarissen. Kabinetsleden. Mediadirecteuren.
-
-Hetzelfde programma. Tientallen landen. Dezelfde generatie.
+Ze worden genomineerd terwijl ze nog onder een vastgestelde leeftijdsgrens vallen. Geselecteerd nadat hun opmars al is begonnen. Verbonden over regeringen, bedrijven, media, universiteiten en het maatschappelijk middenveld heen.
 
 ---
 
-Denk na over wat het betekent om die kamer binnen te gaan voordat je gekozen wordt.
+Kijk waar sommigen terechtkwamen.
 
-Om gevormd, verbonden en voorbereid te worden — en dan achter een podium te staan en om je stem te vragen.
+Emmanuel Macron — president van Frankrijk. Jacinda Ardern — premier van Nieuw-Zeeland. Angela Merkel — bondskanselier van Duitsland. Nicolas Sarkozy — president van Frankrijk. Tony Blair — premier van het Verenigd Koninkrijk.
 
-De voorbereiding kwam eerst.
+Mark Zuckerberg — oprichter van Facebook.
 
-Jij kwam aan het einde ervan aan.
+Ministers. Centrale-bankpresidenten. Technologieoprichters. Mediabestuurders.
 
----
-
-De oprichter van het programma beschreef wat ze hadden gebouwd.
-
-In 2017, in een opgenomen interview aan Harvard's Kennedy School, zei Klaus Schwab:
-
-*"Waar we nu echt trots op zijn, met de jonge generatie zoals premier Trudeau, president Macron en zo verder, is dat we de kabinetten binnendringen."*
-
-Hij zei het met trots.
-
-Want vanuit zijn positie was het geen probleem.
-
-Het was het hele punt.
+Twee programma's. Eén institutionele afstamming. Tientallen landen. Opeenvolgende generaties.
 
 ---
 
-Ze noemen het een school.
+Bedenk wat het betekent om dat netwerk binnen te gaan voordat u uw hoogste ambt bereikt.
 
-Een school onderwijst studenten.
+Geselecteerd en verbonden worden en bestuurlijke scholing krijgen — en later op een podium staan en om een stem vragen.
 
-Hoe noem je een programma dat mensen selecteert voordat ze macht hebben, hen vormt terwijl identiteit nog aan het vormen is, hen verbindt over grenzen en sectoren heen — en hen dan de zetels ziet innemen?
+Het netwerk kwam eerst.
 
----
-
-Jij koos tussen hen.
-
-Jij koos hen niet.
-
-De versie van hen die voor je stond, was al ergens gevormd waar jij niet was uitgenodigd.
+De kiezer ontmoette hen later.
 
 ---
 
-Het maakt niet uit wie je koos.
+De oprichter van het programma beschreef het bereik ervan.
 
-Beiden zijn door kamers gegaan.
+In een opgenomen gesprek aan de Harvard Kennedy School in 2017 zei Klaus Schwab trots te zijn dat Young Global Leaders in nationale kabinetten waren terechtgekomen. Hij beweerde dat de helft of meer van het kabinet van Justin Trudeau tot de gemeenschap behoorde.
 
-De kamers hadden misschien verschillende namen.
+Openbare stukken bevestigen verscheidene leden van dat kabinet.
 
-Het proces was hetzelfde.
+Ze staven niet het door Schwab genoemde aandeel.
 
----
+En ze tonen niet aan dat Trudeau zelf een Young Global Leader was.
 
-Jouw stem is echt.
-
-Ze verandert het gezicht.
-
-Ze verandert niet de kamers.
+Het gedocumenteerde netwerk is genoeg. Het heeft geen grotere bewering nodig.
 
 ---
 
-Het stembiljet is niet het begin.
+Ze noemen het een gemeenschap.
 
-Het is de laatste stap in een proces dat jij niet hebt ontworpen, niet kon betreden, en waaraan je niet werd gevraagd deel te nemen.
+De gemeenschap biedt bijeenkomsten, relaties, initiatieven en bestuurlijke scholing via universiteiten als Harvard, Oxford en Stanford.
 
-Jij kwam opdagen. Jij koos. Dat was jouw deel.
+Hoe noemt u een netwerk dat mensen herkent die al in opkomst zijn, hen over grenzen en sectoren heen verbindt, hun bevoorrechte toegang tot elkaar geeft — en vervolgens ziet hoe sommigen de hoogste ambten innemen?
+
+---
+
+Later kunt u tussen hen kiezen.
+
+U koos niet wie het netwerk opmerkte.
+
+De persoon die voor u staat, kan al relaties meedragen die ontstonden op een plek waarvoor u niet was uitgenodigd.
+
+---
+
+Het doet ertoe wie u kiest.
+
+Het doet er ook toe door welke kamers die persoon ging.
+
+Die kamers kunnen verschillende namen hebben gehad.
+
+De verbindingen kunnen blijven.
+
+---
+
+Uw stem is echt.
+
+Ze bepaalt wie het ambt bekleedt.
+
+Ze toont u niet elke relatie die hielp die persoon daar te brengen.
+
+---
+
+Het stembiljet is niet altijd het begin.
+
+Tegen de tijd dat een naam erop verschijnt, kunnen andere instellingen die persoon al hebben herkend, verbonden en ondersteund.
+
+U kiest nog steeds.
+
+Maar u kiest uit de namen die aankomen.
 
 ---
 
 Dit is niet het verleden.
 
-De kamers zijn nog steeds vol.
+De gemeenschap blijft nieuwe leden selecteren.
 
-De volgende namen worden al gevormd.
+De volgende namen ontmoeten elkaar al.
 
-Je zult weer gevraagd worden.
-
----
-
-Zij waren voorbereid.
-
-Jou werd niet verteld waarop.
-
-En de kamers vergaderen nog steeds.
+Later kan u worden gevraagd tussen hen te kiezen.
 
 ---
 
-*De organisaties en mensen die in dit stuk worden genoemd zijn echt en gedocumenteerd.*
+Ze waren verbonden.
 
-- **World Economic Forum Young Global Leaders:** weforum.org/young-global-leaders. The program was established in 1993 under the name "Global Leaders for Tomorrow" and rebranded as Young Global Leaders in 2004. Alumni lists are publicly available.
-- **Klaus Schwab, Harvard Kennedy School, 2017:** The interview was recorded and is publicly available. Schwab's statement about "penetrating the cabinets" was made in the context of discussing the influence of Young Global Leader alumni in government.
-- **Emmanuel Macron, Justin Trudeau, Jacinda Ardern, Nicolas Sarkozy, Angela Merkel, Tony Blair:** All are listed or have been publicly confirmed as WEF Young Global Leader alumni.
+De vraag is wat die verbindingen uiteindelijk zijn gaan dragen.
+
+En de kamers blijven bijeenkomen.
+
+---
+
+*Bewijsspoor — gecontroleerd op 14 november 2026:*
+
+- **Geschiedenis van het programma:** [Volgens het WEF](https://www.weforum.org/stories/social-innovation/young-global-leaders-ygl-20/) begon Global Leaders for Tomorrow in 1992 en werd het later opnieuw opgericht als het Forum of Young Global Leaders. [Het WEF meldde](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders) in 2022 meer dan 1.400 YGL-leden en alumni in meer dan 120 landen.
+- **Bevestigde leden:** [WEF-documenten noemen Emmanuel Macron](https://www3.weforum.org/docs/WEF_Annual_Report_2016_17.pdf) als YGL van de lichting 2016 en [Jacinda Ardern](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders) als vooraanstaand YGL-lid. [De institutionele geschiedenis van het WEF](https://www3.weforum.org/docs/WEF_First40Years_Book_2010.pdf) noemt Angela Merkel, Nicolas Sarkozy en Tony Blair onder de oorspronkelijke Global Leaders for Tomorrow. Het WEF heeft ook [Mark Zuckerberg](https://www.weforum.org/media/forum-in-the-news-may-10) als voormalig YGL aangeduid.
+- **Justin Trudeau:** Er is geen gelijktijdig WEF-lichtingsdocument gevonden dat Trudeau als YGL bevestigt. Daarom wordt hij hier niet als alumnus voorgesteld.
+- **Klaus Schwab, Harvard Kennedy School, 2017:** De [officiële opname](https://www.youtube.com/watch?v=AoBRnrtX9U4) documenteert Schwabs bewering over YGL-vertegenwoordiging in Trudeaus kabinet. Die uitspraak wordt weergegeven als zijn bewering, niet als een onafhankelijk geverifieerde telling.
+- **Wat lidmaatschap aantoont:** Selectie en lidmaatschap tonen toegang aan tot een netwerk, bijeenkomsten, initiatieven en onderwijs. Op zichzelf bewijzen ze geen coördinatie, controle of de oorzaak van een latere beleidsbeslissing.

@@ -3,10 +3,10 @@ title: "Antes de las urnas"
 series: "Moving Truth"
 part: 6
 date: 2026-07-01T00:00:00
-description: "Las personas en la boleta fueron elegidas antes de que existiera la boleta. El fundador del programa lo dijo él mismo."
+description: "Mucho antes de que algunos líderes alcanzaran su cargo más alto, una red internacional ya los había seleccionado."
 ---
 
-Alguien las eligió antes que tú.
+Alguien reparó en ellos antes que usted.
 
 ---
 
@@ -16,114 +16,118 @@ En edificios con nombres. Con direcciones. Con informes anuales publicados.
 
 ---
 
-El World Economic Forum tiene un programa.
+En 1992, el World Economic Forum creó una red llamada Global Leaders for Tomorrow.
 
-Lo llaman Young Global Leaders.
+Su sucesora es el Forum of Young Global Leaders.
 
-Desde 1993, aproximadamente mil cuatrocientas personas han pasado por él — seleccionadas por su influencia y potencial, integradas en una red sostenida, introducidas a una idea particular de cómo debería funcionar el mundo.
+El WEF afirma que la comunidad reúne hoy a más de mil cuatrocientos miembros y antiguos miembros de más de ciento veinte países.
 
-La selección ocurre cuando las personas son lo suficientemente jóvenes para ser moldeadas. Suficientemente mayores para estar en camino ascendente.
-
----
-
-Mira dónde llegaron.
-
-Emmanuel Macron — Presidente de Francia. Justin Trudeau — Primer Ministro de Canadá. Jacinda Ardern — Primera Ministra de Nueva Zelanda. Nicolas Sarkozy — Presidente de Francia. Angela Merkel — Canciller de Alemania. Tony Blair — Primer Ministro del Reino Unido.
-
-El CEO de la plataforma que lleva tus noticias, da forma a tu feed y decide lo que dos mil millones de personas tienen permitido decir.
-
-Ministros de Finanzas. Gobernadores de bancos centrales. Comisarios de comercio. Miembros de gabinete. Ejecutivos de medios.
-
-El mismo programa. Docenas de países. La misma generación.
+Son nominados mientras aún están por debajo de una edad determinada. Seleccionados después de que ya han comenzado a ascender. Conectados entre gobiernos, empresas, medios, universidades y sociedad civil.
 
 ---
 
-Piensa en lo que significa entrar en esa sala antes de ser elegido.
+Mire hasta dónde llegaron algunos.
 
-Ser moldeado, conectado y preparado — y luego pararte en un podio y pedir tu voto.
+Emmanuel Macron — presidente de Francia. Jacinda Ardern — primera ministra de Nueva Zelanda. Angela Merkel — canciller de Alemania. Nicolas Sarkozy — presidente de Francia. Tony Blair — primer ministro del Reino Unido.
 
-La preparación vino primero.
+Mark Zuckerberg — fundador de Facebook.
 
-Tú llegaste al final de ella.
+Ministros. Gobernadores de bancos centrales. Fundadores tecnológicos. Ejecutivos de medios.
 
----
-
-El fundador del programa describió lo que habían construido.
-
-En 2017, en una entrevista grabada en la Harvard's Kennedy School, Klaus Schwab dijo:
-
-*"De lo que estamos realmente orgullosos ahora con la joven generación, como el Primer Ministro Trudeau, el Presidente Macron y demás, es de que penetramos los gabinetes."*
-
-Lo dijo con orgullo.
-
-Porque desde donde estaba sentado, no era un problema.
-
-Era el objetivo.
+Dos programas. Un mismo linaje institucional. Decenas de países. Generaciones sucesivas.
 
 ---
 
-Lo llaman una escuela.
+Piense en lo que significa entrar en esa red antes de alcanzar el cargo más alto.
 
-Una escuela enseña a los estudiantes.
+Ser seleccionado, conectado y recibir formación ejecutiva — y después subir a un podio y pedir el voto.
 
-¿Cómo llamas a un programa que selecciona a personas antes de que tengan poder, las moldea mientras su identidad aún se está formando, las conecta a través de fronteras e industrias — y luego las observa tomar los asientos?
+La red llegó primero.
 
----
-
-Elegiste entre ellos.
-
-No los elegiste a ellos.
-
-La versión de ellos que se presentó ante ti ya había sido formada en algún lugar al que no fuiste invitado.
+El votante los conoció después.
 
 ---
 
-No importa cuál de ellos elegiste.
+El fundador del programa describió su alcance.
 
-Ambos pasaron por salas.
+En una conversación grabada en 2017 en la Harvard Kennedy School, Klaus Schwab dijo estar orgulloso de que integrantes de Young Global Leaders hubieran entrado en gabinetes nacionales. Afirmó que la mitad o más del gabinete de Justin Trudeau pertenecía a la comunidad.
 
-Las salas podían tener nombres diferentes.
+Los registros públicos confirman a varios miembros de aquel gabinete.
 
-El proceso fue el mismo.
+No establecen la proporción afirmada por Schwab.
 
----
+Tampoco establecen que el propio Trudeau fuera un Young Global Leader.
 
-Tu voto es real.
-
-Cambia el rostro.
-
-No cambia las salas.
+La red documentada basta. No necesita una afirmación mayor.
 
 ---
 
-La boleta no es el comienzo.
+La llaman una comunidad.
 
-Es el último paso en un proceso que no diseñaste, al que no podías acceder y en el que no te pidieron unirte.
+La comunidad ofrece encuentros, relaciones, iniciativas y formación ejecutiva mediante universidades como Harvard, Oxford y Stanford.
 
-Te presentaste. Elegiste. Esa fue tu parte.
-
----
-
-Esto no es el pasado.
-
-Las salas siguen llenas.
-
-Los próximos nombres ya están siendo moldeados.
-
-Te lo preguntarán de nuevo.
+¿Cómo se llama a una red que identifica a personas que ya están ascendiendo, las conecta entre fronteras y sectores, les da acceso privilegiado unas a otras — y luego ve cómo algunas ocupan los cargos más altos?
 
 ---
 
-Ellos estaban preparados.
+Puede que más adelante usted elija entre ellas.
 
-A ti no te dijeron para qué.
+Usted no eligió a quién detectó la red.
+
+La persona que se presenta ante usted puede llevar ya consigo relaciones forjadas en lugares a los que usted no fue invitado.
+
+---
+
+Importa a qué persona elige.
+
+También importa por qué salas pasó.
+
+Las salas pueden haber tenido nombres distintos.
+
+Las conexiones pueden permanecer.
+
+---
+
+Su voto es real.
+
+Cambia quién ocupa el cargo.
+
+No le muestra todas las relaciones que ayudaron a llevarlo hasta allí.
+
+---
+
+La urna no siempre es el comienzo.
+
+Cuando un nombre llega a ella, otras instituciones quizá ya hayan identificado, conectado e invertido en esa persona.
+
+Usted sigue eligiendo.
+
+Pero elige entre los nombres que llegan.
+
+---
+
+Esto no pertenece al pasado.
+
+La comunidad sigue seleccionando nuevos miembros.
+
+Los próximos nombres ya se están encontrando.
+
+Puede que más adelante le pidan elegir entre ellos.
+
+---
+
+Estaban conectados.
+
+La pregunta es qué llegaron a portar esas conexiones.
 
 Y las salas siguen reuniéndose.
 
 ---
 
-*Las organizaciones y personas nombradas en esta pieza son reales y están documentadas.*
+*Rastro documental — verificado el 14 de noviembre de 2026:*
 
-- **World Economic Forum Young Global Leaders:** weforum.org/young-global-leaders. El programa fue establecido en 1993 bajo el nombre "Global Leaders for Tomorrow" y renombrado como Young Global Leaders en 2004. Las listas de ex alumnos están disponibles públicamente.
-- **Klaus Schwab, Harvard Kennedy School, 2017:** La entrevista fue grabada y está disponible públicamente. La declaración de Schwab sobre "penetrar los gabinetes" fue realizada en el contexto de discutir la influencia de los ex alumnos de Young Global Leaders en el gobierno.
-- **Emmanuel Macron, Justin Trudeau, Jacinda Ardern, Nicolas Sarkozy, Angela Merkel, Tony Blair:** Todos están listados o han sido confirmados públicamente como ex alumnos de WEF Young Global Leaders.
+- **Historia del programa:** [El WEF afirma](https://www.weforum.org/stories/social-innovation/young-global-leaders-ygl-20/) que Global Leaders for Tomorrow comenzó en 1992 y posteriormente fue reconstituido como el Forum of Young Global Leaders. [El WEF informó](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders) en 2022 de más de 1.400 miembros y antiguos miembros de YGL en más de 120 países.
+- **Miembros verificados:** [Los registros del WEF identifican a Emmanuel Macron](https://www3.weforum.org/docs/WEF_Annual_Report_2016_17.pdf) como integrante de la promoción YGL de 2016 y a [Jacinda Ardern](https://www.weforum.org/media/from-entrepreneurs-to-scientists-meet-the-2022-class-of-young-global-leaders) como miembro destacado de YGL. [La historia institucional del WEF](https://www3.weforum.org/docs/WEF_First40Years_Book_2010.pdf) nombra a Angela Merkel, Nicolas Sarkozy y Tony Blair entre los Global Leaders for Tomorrow originales. El WEF también ha [identificado a Mark Zuckerberg](https://www.weforum.org/media/forum-in-the-news-may-10) como antiguo YGL.
+- **Justin Trudeau:** No se encontró ningún registro contemporáneo de una promoción del WEF que confirme a Trudeau como YGL. Por ello no se le presenta aquí como antiguo miembro.
+- **Klaus Schwab, Harvard Kennedy School, 2017:** La [grabación oficial](https://www.youtube.com/watch?v=AoBRnrtX9U4) documenta la afirmación de Schwab sobre la representación de YGL en el gabinete de Trudeau. La declaración se atribuye como afirmación suya y no se trata como un recuento verificado de forma independiente.
+- **Lo que demuestra la pertenencia:** La selección y la pertenencia acreditan acceso a una red, encuentros, iniciativas y formación. Por sí solas no prueban coordinación, control ni la causa de ninguna decisión política posterior.
