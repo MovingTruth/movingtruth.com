@@ -5788,6 +5788,94 @@
           "translationSha256": "5f5d39167b1076ea33f2919cbf7c29fab3158baabd3fa4900e94aad328860e43"
         }
       }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0073",
+      "path": "content/moving-truth/13-closer-to-the-beginning.md",
+      "sourceSha256": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "ac106ea57555306b8f8b0c5c7aa9e85685980c497785519d7800d169190c4b36"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "425aa134b1421fa64f71be8a007f8a7a25036a6d8f8aa1e66dec215f27da1a96"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "a8cf61b008a1c1ec103c1bd1ea04486f3166ce5a8f115f6238cc62efa517e606"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "bf1bfa4876e30951e57fa5744d151545daa3c169e1cbc6aabae5bee1c90110cd"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "4c56eeabb364ddf62ba94677aa72d6542b54bad6d602d006c92b8bf2be2e547a"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "328cabf71214ceca78f75a23e94be054e95cb732356c4a268c96cd580b05d6da"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "e4a98ace5eb1a6db9781ef6959fc5e4798ad429164ca7bfd58e3c99e1165bd62"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "be93821f421052b02587fd44b5766116b21a0e44b2d73d739b24874a2106737c"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "8191778082bb8a6c588e540a4d82789b483e0282013e7ee070fa1c3a7f5c7a2a"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "c80ef1a3aa7a03af6b2eacd6d72075941aafa3853f6745f46810da88bd3b95c1"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "d9633ad235c1cf4d34cdf6e8be41319de630ea5eae4a68794ecb665f47acddbc"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "b44716071246fe58aaafd92022872988d2c04ea21dbe196c76d5bd08dd3546d0"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "bafe251c5371c919c9dd5e2498037b5d290a2c5fd2e3168bffd8918d97862918",
+          "translationSha256": "29a4d6504813d8dc663a414b68b6bd6acbaeabf01fabfe15a0d5afba9f445eef"
+        }
+      }
     }
   ],
   "interface": [
