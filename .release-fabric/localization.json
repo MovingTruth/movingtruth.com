@@ -5876,6 +5876,94 @@
           "translationSha256": "29a4d6504813d8dc663a414b68b6bd6acbaeabf01fabfe15a0d5afba9f445eef"
         }
       }
+    },
+    {
+      "coverage": {
+        "policy": "translated"
+      },
+      "id": "mt.content.0074",
+      "path": "content/theories/04-the-divine-amnesia-theory.md",
+      "sourceSha256": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+      "translations": {
+        "ar": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "60b27371df5febf0b77006cdd4417cc77d386be23c6ae339c6c395564281df38"
+        },
+        "de": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "c343829db94abac903714d36cdba1ee0054eb2d61a2f407c9e51b802a04ca4ce"
+        },
+        "es": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "9e2e1cc0d9e37368fe6c591b9d1fc2203424235539f1b8446d0e9054066a326f"
+        },
+        "fr": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "c18cf57bf2d6240417203287ac5f59ea794163202f767c2c249d2f6845d7ebec"
+        },
+        "hi": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "f60f52850baa8c0d278ad0d09a7d8abfdb30b0c3f9961573b11f493ae289ab0d"
+        },
+        "it": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "a0aaf039c89824d4030afb26d1a5f991c8035bfbcbb6b894f8d1821e3d5dc8e4"
+        },
+        "ja": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "0dd6e97a7b90698d8ed8122d39b605f3f328a86f42886af0e3b0a00f6100ff6d"
+        },
+        "ko": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "16c6af322bb1dd404af720e490b5f9451680adb42a0640bc85664e1e4f26ecfe"
+        },
+        "nl": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "921006875fb1896c3eac5ac93b9fc55cb9404b887ebbde69331c39d220148280"
+        },
+        "pt": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "14b3677cb30b657b0f0414e32a2bd9317753a1d6b743cd63585ec18d000b5af9"
+        },
+        "ru": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "d1dcf545d64223b6d71286cf0e8d3d2558145534e47568a9043a4d5a67f6b78c"
+        },
+        "th": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "0f0c5e362d823e2df0fd4fc0a6c7f551d49473a9d12a65b199bc22952108e65f"
+        },
+        "zh": {
+          "basis": "translated",
+          "review": "unreviewed",
+          "sourceBaseline": "8835033bdd6ae8d5839b89440035677785dbce829c43a9f0a8a376238367f632",
+          "translationSha256": "6d296a8156a0b80728574a996f31c2dad746019796db03f328a02314cafa8bd2"
+        }
+      }
     }
   ],
   "interface": [
